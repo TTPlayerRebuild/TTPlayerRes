@@ -1,0 +1,456 @@
+{
+  "help_id": 0,
+  "exstyle": 0,
+  "style": 2160591040,
+  "rect": [
+    0,
+    0,
+    270,
+    217
+  ],
+  "menu": "",
+  "window_class": "",
+  "title": "转换格式",
+  "font": {
+    "points": 9,
+    "weight": 0,
+    "italic": 0,
+    "charset": 1,
+    "face": "宋体"
+  },
+  "controls": [
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1344339971,
+      "rect": [
+        51,
+        18,
+        160,
+        130
+      ],
+      "id": 2050,
+      "window_class": 133,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        216,
+        18,
+        40,
+        14
+      ],
+      "id": 1015,
+      "window_class": 128,
+      "title": "配置",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1344339971,
+      "rect": [
+        51,
+        35,
+        52,
+        67
+      ],
+      "id": 2041,
+      "window_class": 133,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242819,
+      "rect": [
+        13,
+        69,
+        62,
+        12
+      ],
+      "id": 2036,
+      "window_class": 128,
+      "title": "转换采样频率",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1344339971,
+      "rect": [
+        78,
+        68,
+        60,
+        126
+      ],
+      "id": 2042,
+      "window_class": 133,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242819,
+      "rect": [
+        13,
+        84,
+        63,
+        12
+      ],
+      "id": 2129,
+      "window_class": 128,
+      "title": "启用回放增益",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242819,
+      "rect": [
+        78,
+        84,
+        86,
+        12
+      ],
+      "id": 2060,
+      "window_class": 128,
+      "title": "启用当前均衡器设置",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242819,
+      "rect": [
+        166,
+        84,
+        96,
+        12
+      ],
+      "id": 2061,
+      "window_class": 128,
+      "title": "启用当前杜比环绕设置",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1350631552,
+      "rect": [
+        60,
+        116,
+        177,
+        14
+      ],
+      "id": 1028,
+      "window_class": 129,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        242,
+        116,
+        14,
+        14
+      ],
+      "id": 1023,
+      "window_class": 128,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1344339971,
+      "rect": [
+        60,
+        133,
+        60,
+        48
+      ],
+      "id": 1100,
+      "window_class": 133,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1344339971,
+      "rect": [
+        200,
+        133,
+        56,
+        30
+      ],
+      "id": 1041,
+      "window_class": 133,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242819,
+      "rect": [
+        13,
+        150,
+        112,
+        11
+      ],
+      "id": 2017,
+      "window_class": 128,
+      "title": "转换完成后添加到播放列表",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242819,
+      "rect": [
+        137,
+        150,
+        105,
+        11
+      ],
+      "id": 2207,
+      "window_class": 128,
+      "title": "自动为目标文件添加序号",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242817,
+      "rect": [
+        72,
+        196,
+        60,
+        14
+      ],
+      "id": 1,
+      "window_class": 128,
+      "title": "立即转换",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        137,
+        196,
+        60,
+        14
+      ],
+      "id": 2,
+      "window_class": 128,
+      "title": "取消",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342177287,
+      "rect": [
+        7,
+        7,
+        256,
+        47
+      ],
+      "id": 4294967295,
+      "window_class": 128,
+      "title": "编码格式",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        13,
+        116,
+        45,
+        12
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "目标文件夹:",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        13,
+        133,
+        45,
+        12
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "任务优先级:",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308352,
+      "rect": [
+        7,
+        174,
+        256,
+        17
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "提示: 1.如果不指定目标文件夹，将把目标文件生成在源文件夹内             2.由于CD播放是独占方式，如果正在播放CD，请先停止播放",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        13,
+        35,
+        38,
+        12
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "输出比特:",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        13,
+        18,
+        38,
+        14
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "输出格式:",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342177287,
+      "rect": [
+        7,
+        105,
+        256,
+        64
+      ],
+      "id": 4294967295,
+      "window_class": 128,
+      "title": "选项",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        107,
+        35,
+        98,
+        12
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "(只对 Wave 输出格式有效)",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342177287,
+      "rect": [
+        7,
+        57,
+        256,
+        45
+      ],
+      "id": 4294967295,
+      "window_class": 128,
+      "title": "音效处理",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        139,
+        69,
+        106,
+        12
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "(编码器不一定支持所有频率)",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        137,
+        133,
+        61,
+        12
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "目标文件存在时:",
+      "creation_data": ""
+    }
+  ],
+  "tail": ""
+}

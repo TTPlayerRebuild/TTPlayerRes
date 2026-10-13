@@ -1,0 +1,312 @@
+{
+  "help_id": 0,
+  "exstyle": 0,
+  "style": 1086324800,
+  "rect": [
+    0,
+    0,
+    280,
+    215
+  ],
+  "menu": "",
+  "window_class": "",
+  "title": "网络连接",
+  "font": {
+    "points": 9,
+    "weight": 0,
+    "italic": 0,
+    "charset": 1,
+    "face": "宋体"
+  },
+  "controls": [
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342373897,
+      "rect": [
+        14,
+        79,
+        80,
+        10
+      ],
+      "id": 2190,
+      "window_class": 128,
+      "title": "不使用代理服务器",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242825,
+      "rect": [
+        14,
+        91,
+        148,
+        10
+      ],
+      "id": 2191,
+      "window_class": 128,
+      "title": "使用 Internet Explorer 的代理设置",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242825,
+      "rect": [
+        14,
+        103,
+        104,
+        10
+      ],
+      "id": 2192,
+      "window_class": 128,
+      "title": "使用自定义的代理服务器",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1350631552,
+      "rect": [
+        57,
+        114,
+        85,
+        13
+      ],
+      "id": 2143,
+      "window_class": 129,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1350639744,
+      "rect": [
+        170,
+        114,
+        40,
+        13
+      ],
+      "id": 2144,
+      "window_class": 129,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1350631552,
+      "rect": [
+        57,
+        129,
+        85,
+        13
+      ],
+      "id": 2184,
+      "window_class": 129,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1350631584,
+      "rect": [
+        170,
+        129,
+        85,
+        13
+      ],
+      "id": 2185,
+      "window_class": 129,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242819,
+      "rect": [
+        13,
+        159,
+        136,
+        10
+      ],
+      "id": 2173,
+      "window_class": 128,
+      "title": "播放缺少信息的CD音轨时自动查询",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242819,
+      "rect": [
+        13,
+        170,
+        159,
+        10
+      ],
+      "id": 2176,
+      "window_class": 128,
+      "title": "查询失败时在屏幕右下角显示错误信息",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1344340226,
+      "rect": [
+        13,
+        192,
+        254,
+        133
+      ],
+      "id": 2177,
+      "window_class": 133,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        26,
+        114,
+        29,
+        13
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "服务器:",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        147,
+        114,
+        21,
+        13
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "端口:",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        26,
+        129,
+        29,
+        13
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "用户名:",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        147,
+        129,
+        21,
+        13
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "密码:",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342177287,
+      "rect": [
+        7,
+        148,
+        266,
+        60
+      ],
+      "id": 4294967295,
+      "window_class": 128,
+      "title": "freedb (用于从 freedb.org 免费获取 CD 的专辑和音轨信息)",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308352,
+      "rect": [
+        13,
+        182,
+        77,
+        8
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "选择 freedb 服务器:",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342177287,
+      "rect": [
+        7,
+        68,
+        266,
+        77
+      ],
+      "id": 4294967295,
+      "window_class": 128,
+      "title": "代理服务器",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342177280,
+      "rect": [
+        7,
+        4,
+        266,
+        60
+      ],
+      "id": 1181,
+      "window_class": "SysTabControl32",
+      "title": "",
+      "creation_data": ""
+    }
+  ],
+  "tail": ""
+}

@@ -1,0 +1,104 @@
+{
+  "help_id": 0,
+  "exstyle": 0,
+  "style": 2160591040,
+  "rect": [
+    0,
+    0,
+    260,
+    61
+  ],
+  "menu": "",
+  "window_class": "",
+  "title": "播放 URL",
+  "font": {
+    "points": 9,
+    "weight": 0,
+    "italic": 0,
+    "charset": 1,
+    "face": "宋体"
+  },
+  "controls": [
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308352,
+      "rect": [
+        7,
+        7,
+        229,
+        8
+      ],
+      "id": 1052,
+      "window_class": 130,
+      "title": "请输入一个网络URL进行播放(例如:http://129.168.0.1/1.mp3):",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1350631552,
+      "rect": [
+        7,
+        19,
+        246,
+        14
+      ],
+      "id": 2001,
+      "window_class": 129,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        99,
+        40,
+        50,
+        14
+      ],
+      "id": 1,
+      "window_class": 128,
+      "title": "确定",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        151,
+        40,
+        50,
+        14
+      ],
+      "id": 2,
+      "window_class": 128,
+      "title": "取消",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        203,
+        40,
+        50,
+        14
+      ],
+      "id": 1023,
+      "window_class": 128,
+      "title": "浏览...",
+      "creation_data": ""
+    }
+  ],
+  "tail": ""
+}

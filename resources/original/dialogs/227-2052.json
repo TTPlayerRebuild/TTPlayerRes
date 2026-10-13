@@ -1,0 +1,88 @@
+{
+  "help_id": 0,
+  "exstyle": 0,
+  "style": 2160593602,
+  "rect": [
+    0,
+    0,
+    250,
+    65
+  ],
+  "menu": "",
+  "window_class": "",
+  "title": "千千静听 - 自动关机",
+  "font": {
+    "points": 9,
+    "weight": 0,
+    "italic": 0,
+    "charset": 1,
+    "face": "宋体"
+  },
+  "controls": [
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242817,
+      "rect": [
+        126,
+        44,
+        60,
+        14
+      ],
+      "id": 2,
+      "window_class": 128,
+      "title": "取消关机",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        62,
+        44,
+        60,
+        14
+      ],
+      "id": 1,
+      "window_class": 128,
+      "title": "立即关机",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1350565889,
+      "rect": [
+        7,
+        19,
+        236,
+        13
+      ],
+      "id": 2181,
+      "window_class": "msctls_progress32",
+      "title": "Progress1",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308352,
+      "rect": [
+        7,
+        7,
+        236,
+        8
+      ],
+      "id": 1052,
+      "window_class": 130,
+      "title": "",
+      "creation_data": ""
+    }
+  ],
+  "tail": ""
+}

@@ -1,0 +1,264 @@
+{
+  "help_id": 0,
+  "exstyle": 0,
+  "style": 1086324800,
+  "rect": [
+    0,
+    0,
+    280,
+    215
+  ],
+  "menu": "",
+  "window_class": "",
+  "title": "系统关联",
+  "font": {
+    "points": 9,
+    "weight": 0,
+    "italic": 0,
+    "charset": 1,
+    "face": "宋体"
+  },
+  "controls": [
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 512,
+      "style": 1342242979,
+      "rect": [
+        7,
+        18,
+        156,
+        169
+      ],
+      "id": 2038,
+      "window_class": "SysTreeView32",
+      "title": "Tree2",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        173,
+        18,
+        100,
+        28
+      ],
+      "id": 2108,
+      "window_class": 128,
+      "title": "选择文件图标",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242819,
+      "rect": [
+        173,
+        67,
+        76,
+        11
+      ],
+      "id": 1069,
+      "window_class": 128,
+      "title": "关联CD播放器",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242819,
+      "rect": [
+        173,
+        80,
+        59,
+        11
+      ],
+      "id": 2120,
+      "window_class": 128,
+      "title": "关联文件夹",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        173,
+        106,
+        100,
+        28
+      ],
+      "id": 2106,
+      "window_class": 128,
+      "title": "选择播放器图标",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        180,
+        150,
+        85,
+        16
+      ],
+      "id": 2030,
+      "window_class": 128,
+      "title": "我的桌面",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        180,
+        169,
+        85,
+        16
+      ],
+      "id": 2031,
+      "window_class": 128,
+      "title": "程序菜单",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        180,
+        188,
+        85,
+        16
+      ],
+      "id": 2032,
+      "window_class": 128,
+      "title": "快速启动",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342177287,
+      "rect": [
+        173,
+        138,
+        100,
+        70
+      ],
+      "id": 4294967295,
+      "window_class": 128,
+      "title": "创建快捷方式",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308352,
+      "rect": [
+        7,
+        7,
+        53,
+        8
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "关联文件类型:",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308352,
+      "rect": [
+        173,
+        7,
+        85,
+        10
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "当前文件类型的图标:",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        173,
+        48,
+        100,
+        16
+      ],
+      "id": 2216,
+      "window_class": 128,
+      "title": "从文件夹自动选择图标",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242819,
+      "rect": [
+        173,
+        93,
+        80,
+        11
+      ],
+      "id": 2121,
+      "window_class": 128,
+      "title": "启动时检查关联",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        111,
+        190,
+        51,
+        14
+      ],
+      "id": 2281,
+      "window_class": 128,
+      "title": "手动设置关联",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308352,
+      "rect": [
+        10,
+        193,
+        101,
+        8
+      ],
+      "id": 2282,
+      "window_class": 130,
+      "title": "Vista,Win7下设置关联失效",
+      "creation_data": ""
+    }
+  ],
+  "tail": ""
+}

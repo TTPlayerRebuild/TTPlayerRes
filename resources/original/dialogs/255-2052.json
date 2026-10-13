@@ -1,0 +1,152 @@
+{
+  "help_id": 0,
+  "exstyle": 0,
+  "style": 1086324800,
+  "rect": [
+    0,
+    0,
+    280,
+    215
+  ],
+  "menu": "",
+  "window_class": "",
+  "title": "媒体库",
+  "font": {
+    "points": 9,
+    "weight": 0,
+    "italic": 0,
+    "charset": 1,
+    "face": "宋体"
+  },
+  "controls": [
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242819,
+      "rect": [
+        13,
+        20,
+        57,
+        10
+      ],
+      "id": 2212,
+      "window_class": 128,
+      "title": "启用媒体库",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242819,
+      "rect": [
+        7,
+        97,
+        264,
+        10
+      ],
+      "id": 2210,
+      "window_class": 128,
+      "title": "监视文件夹以更新媒体库或默认的播放列表(需要Windows 2000或更高)",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 512,
+      "style": 1342291981,
+      "rect": [
+        19,
+        129,
+        235,
+        66
+      ],
+      "id": 1038,
+      "window_class": "SysListView32",
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        258,
+        129,
+        15,
+        14
+      ],
+      "id": 1027,
+      "window_class": 128,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1476460544,
+      "rect": [
+        258,
+        143,
+        15,
+        14
+      ],
+      "id": 1039,
+      "window_class": 128,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342177287,
+      "rect": [
+        7,
+        7,
+        266,
+        80
+      ],
+      "id": 4294967295,
+      "window_class": 128,
+      "title": "选项",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308352,
+      "rect": [
+        19,
+        110,
+        254,
+        17
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "监视下列的文件夹，如果有新增、删除、重命名或移动的媒体文件，自动将变化反应到媒体库中。(选定表示同时监控其子文件夹)",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308352,
+      "rect": [
+        19,
+        199,
+        254,
+        9
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "为了获得最佳性能，请避免监视网络中的共享文件夹、根文件夹。",
+      "creation_data": ""
+    }
+  ],
+  "tail": ""
+}

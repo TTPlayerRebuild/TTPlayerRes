@@ -1,0 +1,136 @@
+{
+  "help_id": 0,
+  "exstyle": 0,
+  "style": 2160591048,
+  "rect": [
+    0,
+    0,
+    213,
+    58
+  ],
+  "menu": "",
+  "window_class": "",
+  "title": "重新下载",
+  "font": {
+    "points": 8,
+    "weight": 400,
+    "italic": 0,
+    "charset": 1,
+    "face": "MS Shell Dlg"
+  },
+  "controls": [
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308352,
+      "rect": [
+        3,
+        6,
+        134,
+        8
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "重新下载时会优先选择不同的文件。",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308352,
+      "rect": [
+        4,
+        24,
+        84,
+        8
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "请选择歌曲保存方式：",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242825,
+      "rect": [
+        91,
+        23,
+        56,
+        10
+      ],
+      "id": 2281,
+      "window_class": 128,
+      "title": "覆盖原文件",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242825,
+      "rect": [
+        150,
+        23,
+        56,
+        10
+      ],
+      "id": 2282,
+      "window_class": 128,
+      "title": "自动重命名",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242819,
+      "rect": [
+        5,
+        42,
+        64,
+        10
+      ],
+      "id": 2283,
+      "window_class": 128,
+      "title": "记住我的选择",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        82,
+        39,
+        50,
+        14
+      ],
+      "id": 2285,
+      "window_class": 128,
+      "title": "是",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        150,
+        39,
+        50,
+        14
+      ],
+      "id": 2284,
+      "window_class": 128,
+      "title": "否",
+      "creation_data": ""
+    }
+  ],
+  "tail": ""
+}

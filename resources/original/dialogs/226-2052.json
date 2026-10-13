@@ -1,0 +1,152 @@
+{
+  "help_id": 0,
+  "exstyle": 0,
+  "style": 2160593088,
+  "rect": [
+    0,
+    0,
+    320,
+    265
+  ],
+  "menu": "",
+  "window_class": "",
+  "title": "freedb 标签",
+  "font": {
+    "points": 9,
+    "weight": 0,
+    "italic": 0,
+    "charset": 1,
+    "face": "宋体"
+  },
+  "controls": [
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1344339971,
+      "rect": [
+        7,
+        18,
+        232,
+        95
+      ],
+      "id": 1005,
+      "window_class": 133,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        243,
+        17,
+        70,
+        14
+      ],
+      "id": 2172,
+      "window_class": 128,
+      "title": "查询音轨信息",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1344340227,
+      "rect": [
+        94,
+        37,
+        219,
+        321
+      ],
+      "id": 2170,
+      "window_class": 133,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1350666317,
+      "rect": [
+        7,
+        54,
+        306,
+        185
+      ],
+      "id": 2164,
+      "window_class": "SysListView32",
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1476460545,
+      "rect": [
+        210,
+        244,
+        50,
+        14
+      ],
+      "id": 1,
+      "window_class": 128,
+      "title": "保存",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        263,
+        244,
+        50,
+        14
+      ],
+      "id": 2,
+      "window_class": 128,
+      "title": "取消",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308352,
+      "rect": [
+        7,
+        7,
+        109,
+        8
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "从freedb网站上查询到的结果:",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        7,
+        37,
+        86,
+        12
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "音轨信息(选择字符集): ",
+      "creation_data": ""
+    }
+  ],
+  "tail": ""
+}

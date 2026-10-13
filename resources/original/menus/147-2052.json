@@ -1,0 +1,32 @@
+{
+  "header": "",
+  "items": [
+    {
+      "flags": 0,
+      "text": "Alpha",
+      "items": [
+        {
+          "flags": 0,
+          "id": 32200,
+          "text": "不透明"
+        },
+        {
+          "flags": 0,
+          "id": 32210,
+          "text": "激活时不透明"
+        },
+        {
+          "flags": 0,
+          "id": 0,
+          "text": ""
+        },
+        {
+          "flags": 0,
+          "id": 32222,
+          "text": "窗口阴影"
+        }
+      ]
+    }
+  ],
+  "tail": ""
+}

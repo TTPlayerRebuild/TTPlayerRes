@@ -1,0 +1,104 @@
+{
+  "help_id": 0,
+  "exstyle": 0,
+  "style": 2160722112,
+  "rect": [
+    0,
+    0,
+    289,
+    90
+  ],
+  "menu": "",
+  "window_class": "",
+  "title": "千千静听在线升级",
+  "font": {
+    "points": 9,
+    "weight": 400,
+    "italic": 0,
+    "charset": 0,
+    "face": "宋体"
+  },
+  "controls": [
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1073807361,
+      "rect": [
+        189,
+        69,
+        42,
+        14
+      ],
+      "id": 1,
+      "window_class": 128,
+      "title": "安装",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        236,
+        69,
+        42,
+        14
+      ],
+      "id": 2,
+      "window_class": 128,
+      "title": "取消",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1350565888,
+      "rect": [
+        12,
+        43,
+        234,
+        18
+      ],
+      "id": 2181,
+      "window_class": "msctls_progress32",
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308352,
+      "rect": [
+        13,
+        10,
+        260,
+        25
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "\r\n正在下载升级文件...",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308352,
+      "rect": [
+        255,
+        47,
+        22,
+        11
+      ],
+      "id": 2254,
+      "window_class": 130,
+      "title": "100%",
+      "creation_data": ""
+    }
+  ],
+  "tail": ""
+}

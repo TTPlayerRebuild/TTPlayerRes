@@ -1,0 +1,88 @@
+{
+  "help_id": 0,
+  "exstyle": 0,
+  "style": 2160591040,
+  "rect": [
+    0,
+    0,
+    215,
+    66
+  ],
+  "menu": "",
+  "window_class": "",
+  "title": "检查文件关联",
+  "font": {
+    "points": 9,
+    "weight": 400,
+    "italic": 0,
+    "charset": 0,
+    "face": "宋体"
+  },
+  "controls": [
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242817,
+      "rect": [
+        108,
+        45,
+        45,
+        14
+      ],
+      "id": 6,
+      "window_class": 128,
+      "title": "是",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        159,
+        45,
+        45,
+        14
+      ],
+      "id": 7,
+      "window_class": 128,
+      "title": "否",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308352,
+      "rect": [
+        7,
+        7,
+        201,
+        32
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "千千静听目前没有关联常见的音频格式。\n\n您想将千千静听设置为常见音频格式的默认播放器吗？",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242819,
+      "rect": [
+        7,
+        46,
+        86,
+        13
+      ],
+      "id": 2252,
+      "window_class": 128,
+      "title": "每次启动时自动关联",
+      "creation_data": ""
+    }
+  ],
+  "tail": ""
+}

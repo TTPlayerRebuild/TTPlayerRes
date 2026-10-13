@@ -1,0 +1,152 @@
+{
+  "help_id": 0,
+  "exstyle": 0,
+  "style": 2160591040,
+  "rect": [
+    0,
+    0,
+    230,
+    197
+  ],
+  "menu": "",
+  "window_class": "",
+  "title": "选择图标",
+  "font": {
+    "points": 9,
+    "weight": 0,
+    "italic": 0,
+    "charset": 1,
+    "face": "宋体"
+  },
+  "controls": [
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308352,
+      "rect": [
+        7,
+        7,
+        97,
+        8
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "在这个文件中查找图标(&L):",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1350631552,
+      "rect": [
+        7,
+        18,
+        162,
+        14
+      ],
+      "id": 2001,
+      "window_class": 129,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        173,
+        18,
+        50,
+        14
+      ],
+      "id": 1023,
+      "window_class": 128,
+      "title": "浏览...",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308352,
+      "rect": [
+        7,
+        38,
+        105,
+        8
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "从以下列表选择一个图标(&S):",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1351688977,
+      "rect": [
+        7,
+        48,
+        216,
+        124
+      ],
+      "id": 1064,
+      "window_class": 131,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242817,
+      "rect": [
+        119,
+        176,
+        50,
+        14
+      ],
+      "id": 1,
+      "window_class": 128,
+      "title": "确定",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        173,
+        176,
+        50,
+        14
+      ],
+      "id": 2,
+      "window_class": 128,
+      "title": "取消",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        7,
+        176,
+        105,
+        14
+      ],
+      "id": 1052,
+      "window_class": 130,
+      "title": "",
+      "creation_data": ""
+    }
+  ],
+  "tail": ""
+}

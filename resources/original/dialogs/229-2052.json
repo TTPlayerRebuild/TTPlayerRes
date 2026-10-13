@@ -1,0 +1,88 @@
+{
+  "help_id": 0,
+  "exstyle": 0,
+  "style": 2160591040,
+  "rect": [
+    0,
+    0,
+    260,
+    125
+  ],
+  "menu": "",
+  "window_class": "",
+  "title": "播放音频 CD",
+  "font": {
+    "points": 9,
+    "weight": 0,
+    "italic": 0,
+    "charset": 1,
+    "face": "宋体"
+  },
+  "controls": [
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1350649925,
+      "rect": [
+        7,
+        19,
+        246,
+        80
+      ],
+      "id": 1064,
+      "window_class": "SysListView32",
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        108,
+        104,
+        70,
+        14
+      ],
+      "id": 1,
+      "window_class": 128,
+      "title": "播放",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        183,
+        104,
+        70,
+        14
+      ],
+      "id": 2017,
+      "window_class": 128,
+      "title": "添加到播放列表",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308352,
+      "rect": [
+        7,
+        7,
+        69,
+        8
+      ],
+      "id": 1052,
+      "window_class": 130,
+      "title": "请选择 CD 驱动器:",
+      "creation_data": ""
+    }
+  ],
+  "tail": ""
+}

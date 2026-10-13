@@ -1,0 +1,136 @@
+{
+  "help_id": 0,
+  "exstyle": 256,
+  "style": 13107424,
+  "rect": [
+    0,
+    0,
+    240,
+    101
+  ],
+  "menu": "",
+  "window_class": "",
+  "title": "歌曲举报",
+  "font": {
+    "points": 9,
+    "weight": 400,
+    "italic": 0,
+    "charset": 0,
+    "face": "宋体"
+  },
+  "controls": [
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242817,
+      "rect": [
+        49,
+        86,
+        50,
+        14
+      ],
+      "id": 1,
+      "window_class": 128,
+      "title": "提交",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342177289,
+      "rect": [
+        14,
+        32,
+        118,
+        10
+      ],
+      "id": 1170,
+      "window_class": 128,
+      "title": "歌曲听不了",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342177289,
+      "rect": [
+        14,
+        48,
+        213,
+        10
+      ],
+      "id": 1171,
+      "window_class": 128,
+      "title": "歌曲错了(包括听到的不是这首歌、版本不对或不完整)",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        129,
+        86,
+        50,
+        14
+      ],
+      "id": 2,
+      "window_class": 128,
+      "title": "关闭",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308352,
+      "rect": [
+        19,
+        66,
+        196,
+        8
+      ],
+      "id": 1172,
+      "window_class": 130,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342177287,
+      "rect": [
+        7,
+        2,
+        224,
+        81
+      ],
+      "id": 4294967295,
+      "window_class": 128,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308352,
+      "rect": [
+        17,
+        13,
+        203,
+        8
+      ],
+      "id": 2276,
+      "window_class": 130,
+      "title": "举报歌曲：",
+      "creation_data": ""
+    }
+  ],
+  "tail": ""
+}

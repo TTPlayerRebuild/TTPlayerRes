@@ -1,0 +1,22 @@
+{
+  "header": "",
+  "items": [
+    {
+      "flags": 0,
+      "text": "profile",
+      "items": [
+        {
+          "flags": 0,
+          "id": 32020,
+          "text": "从文件加载..."
+        },
+        {
+          "flags": 0,
+          "id": 32021,
+          "text": "保存到文件..."
+        }
+      ]
+    }
+  ],
+  "tail": ""
+}

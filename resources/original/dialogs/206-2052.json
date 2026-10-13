@@ -1,0 +1,248 @@
+{
+  "help_id": 0,
+  "exstyle": 0,
+  "style": 2160591040,
+  "rect": [
+    0,
+    0,
+    280,
+    155
+  ],
+  "menu": "",
+  "window_class": "",
+  "title": "指定歌词文件",
+  "font": {
+    "points": 9,
+    "weight": 0,
+    "italic": 0,
+    "charset": 1,
+    "face": "宋体"
+  },
+  "controls": [
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1350631552,
+      "rect": [
+        45,
+        7,
+        122,
+        14
+      ],
+      "id": 1009,
+      "window_class": 129,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242819,
+      "rect": [
+        172,
+        7,
+        45,
+        14
+      ],
+      "id": 2119,
+      "window_class": 128,
+      "title": "部分匹配",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        223,
+        7,
+        50,
+        14
+      ],
+      "id": 1046,
+      "window_class": 128,
+      "title": "本地搜索",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1350633997,
+      "rect": [
+        7,
+        38,
+        210,
+        90
+      ],
+      "id": 1064,
+      "window_class": "SysListView32",
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        223,
+        38,
+        50,
+        14
+      ],
+      "id": 1023,
+      "window_class": 128,
+      "title": "浏览...",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        223,
+        57,
+        50,
+        14
+      ],
+      "id": 2116,
+      "window_class": 128,
+      "title": "撤消关联",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        223,
+        76,
+        50,
+        14
+      ],
+      "id": 2117,
+      "window_class": 128,
+      "title": "重命名",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        223,
+        95,
+        50,
+        14
+      ],
+      "id": 2118,
+      "window_class": 128,
+      "title": "删除文件",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        159,
+        134,
+        50,
+        14
+      ],
+      "id": 2115,
+      "window_class": 128,
+      "title": "关联",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        213,
+        134,
+        50,
+        14
+      ],
+      "id": 2,
+      "window_class": 128,
+      "title": "取消",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        7,
+        7,
+        37,
+        14
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "歌词标题:",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308352,
+      "rect": [
+        7,
+        27,
+        125,
+        8
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "从以下列文件中选择一个进行关联:",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342373888,
+      "rect": [
+        168,
+        27,
+        49,
+        8
+      ],
+      "id": 2087,
+      "window_class": 130,
+      "title": "查看所有关联",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        17,
+        134,
+        62,
+        14
+      ],
+      "id": 2120,
+      "window_class": 128,
+      "title": "不关联歌词",
+      "creation_data": ""
+    }
+  ],
+  "tail": ""
+}

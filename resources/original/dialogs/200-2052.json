@@ -1,0 +1,216 @@
+{
+  "help_id": 0,
+  "exstyle": 0,
+  "style": 1086324800,
+  "rect": [
+    0,
+    0,
+    280,
+    215
+  ],
+  "menu": "",
+  "window_class": "",
+  "title": "关于",
+  "font": {
+    "points": 9,
+    "weight": 0,
+    "italic": 0,
+    "charset": 1,
+    "face": "宋体"
+  },
+  "controls": [
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308352,
+      "rect": [
+        77,
+        32,
+        54,
+        8
+      ],
+      "id": 1005,
+      "window_class": 130,
+      "title": "nanling",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342373888,
+      "rect": [
+        77,
+        45,
+        62,
+        8
+      ],
+      "id": 1011,
+      "window_class": 130,
+      "title": "0.0",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1344342084,
+      "rect": [
+        13,
+        68,
+        254,
+        133
+      ],
+      "id": 1073,
+      "window_class": 129,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308352,
+      "rect": [
+        186,
+        32,
+        42,
+        8
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "2003-2011",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308352,
+      "rect": [
+        186,
+        45,
+        60,
+        8
+      ],
+      "id": 1040,
+      "window_class": 130,
+      "title": "0000",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342373888,
+      "rect": [
+        53,
+        32,
+        21,
+        8
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "作者: ",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1073938432,
+      "rect": [
+        50,
+        5,
+        84,
+        21
+      ],
+      "id": 1009,
+      "window_class": 130,
+      "title": "千千静听",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308352,
+      "rect": [
+        53,
+        45,
+        21,
+        8
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "版本:",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308352,
+      "rect": [
+        146,
+        45,
+        37,
+        8
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "完成日期:",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342177287,
+      "rect": [
+        7,
+        58,
+        266,
+        150
+      ],
+      "id": 4294967295,
+      "window_class": 128,
+      "title": "简介",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308352,
+      "rect": [
+        146,
+        32,
+        37,
+        8
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "版权所有: ",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1073938432,
+      "rect": [
+        138,
+        5,
+        135,
+        21
+      ],
+      "id": 1020,
+      "window_class": 130,
+      "title": "XXX 个人版",
+      "creation_data": ""
+    }
+  ],
+  "tail": ""
+}

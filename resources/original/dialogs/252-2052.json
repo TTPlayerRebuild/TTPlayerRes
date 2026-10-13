@@ -1,0 +1,136 @@
+{
+  "help_id": 0,
+  "exstyle": 0,
+  "style": 1086324800,
+  "rect": [
+    0,
+    0,
+    280,
+    215
+  ],
+  "menu": "",
+  "window_class": "",
+  "title": "快捷键",
+  "font": {
+    "points": 9,
+    "weight": 0,
+    "italic": 0,
+    "charset": 1,
+    "face": "宋体"
+  },
+  "controls": [
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 512,
+      "style": 1342277645,
+      "rect": [
+        7,
+        7,
+        266,
+        170
+      ],
+      "id": 1064,
+      "window_class": "SysListView32",
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242819,
+      "rect": [
+        7,
+        199,
+        161,
+        9
+      ],
+      "id": 2053,
+      "window_class": 128,
+      "title": "启用全局快捷键(播放器后台时也能响应)",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        7,
+        181,
+        29,
+        14
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "快捷键:",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1484849152,
+      "rect": [
+        36,
+        181,
+        83,
+        14
+      ],
+      "id": 2054,
+      "window_class": "msctls_hotkey32",
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        122,
+        181,
+        29,
+        14
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "全局键:",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1484849152,
+      "rect": [
+        151,
+        181,
+        85,
+        14
+      ],
+      "id": 2055,
+      "window_class": "msctls_hotkey32",
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1476460544,
+      "rect": [
+        239,
+        181,
+        34,
+        14
+      ],
+      "id": 1098,
+      "window_class": 128,
+      "title": "设置",
+      "creation_data": ""
+    }
+  ],
+  "tail": ""
+}

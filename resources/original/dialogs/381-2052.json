@@ -1,0 +1,216 @@
+{
+  "help_id": 0,
+  "exstyle": 0,
+  "style": 1074266176,
+  "rect": [
+    0,
+    0,
+    259,
+    42
+  ],
+  "menu": "",
+  "window_class": "",
+  "title": "",
+  "font": {
+    "points": 9,
+    "weight": 400,
+    "italic": 0,
+    "charset": 0,
+    "face": "宋体"
+  },
+  "controls": [
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242819,
+      "rect": [
+        111,
+        1,
+        144,
+        10
+      ],
+      "id": 2250,
+      "window_class": 128,
+      "title": "缓存网络歌曲(使在线播放更加流畅)",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242819,
+      "rect": [
+        8,
+        2,
+        80,
+        10
+      ],
+      "id": 2249,
+      "window_class": 128,
+      "title": "接收每周推荐歌曲",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308352,
+      "rect": [
+        7,
+        18,
+        37,
+        8
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "缓存空间:",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1350631552,
+      "rect": [
+        45,
+        15,
+        40,
+        14
+      ],
+      "id": 2252,
+      "window_class": 129,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342177719,
+      "rect": [
+        89,
+        13,
+        11,
+        14
+      ],
+      "id": 2253,
+      "window_class": "msctls_updown32",
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308352,
+      "rect": [
+        101,
+        18,
+        47,
+        8
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "(600MB-2GB)",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308352,
+      "rect": [
+        154,
+        18,
+        37,
+        8
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "缓存路径:",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1350633600,
+      "rect": [
+        189,
+        15,
+        49,
+        14
+      ],
+      "id": 2251,
+      "window_class": 129,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        239,
+        15,
+        18,
+        14
+      ],
+      "id": 1023,
+      "window_class": 128,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308352,
+      "rect": [
+        90,
+        18,
+        9,
+        8
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "MB",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342177289,
+      "rect": [
+        7,
+        30,
+        104,
+        10
+      ],
+      "id": 1165,
+      "window_class": 128,
+      "title": "正常限速(听歌体验更好)",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342177289,
+      "rect": [
+        119,
+        30,
+        104,
+        10
+      ],
+      "id": 1166,
+      "window_class": 128,
+      "title": "智能限速(节省带宽占用)",
+      "creation_data": ""
+    }
+  ],
+  "tail": ""
+}

@@ -1,0 +1,456 @@
+{
+  "help_id": 0,
+  "exstyle": 0,
+  "style": 1086324800,
+  "rect": [
+    0,
+    0,
+    280,
+    215
+  ],
+  "menu": "",
+  "window_class": "",
+  "title": "视觉效果",
+  "font": {
+    "points": 9,
+    "weight": 0,
+    "italic": 0,
+    "charset": 1,
+    "face": "宋体"
+  },
+  "controls": [
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1344339971,
+      "rect": [
+        68,
+        18,
+        90,
+        80
+      ],
+      "id": 1106,
+      "window_class": 133,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242817,
+      "rect": [
+        67,
+        36,
+        90,
+        12
+      ],
+      "id": 1063,
+      "window_class": "msctls_trackbar32",
+      "title": "Slider1",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        53,
+        80,
+        50,
+        14
+      ],
+      "id": 1150,
+      "window_class": 128,
+      "title": "高峰",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        106,
+        80,
+        50,
+        14
+      ],
+      "id": 1151,
+      "window_class": 128,
+      "title": "顶端",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        159,
+        80,
+        50,
+        14
+      ],
+      "id": 1152,
+      "window_class": 128,
+      "title": "中端",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        212,
+        80,
+        50,
+        14
+      ],
+      "id": 1153,
+      "window_class": 128,
+      "title": "底端",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242819,
+      "rect": [
+        13,
+        99,
+        88,
+        10
+      ],
+      "id": 2121,
+      "window_class": 128,
+      "title": "显示粗的频带(柱状)",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        53,
+        130,
+        50,
+        14
+      ],
+      "id": 1154,
+      "window_class": 128,
+      "title": "波形",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1344339971,
+      "rect": [
+        53,
+        151,
+        65,
+        56
+      ],
+      "id": 1058,
+      "window_class": 133,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242819,
+      "rect": [
+        141,
+        153,
+        88,
+        10
+      ],
+      "id": 1101,
+      "window_class": 128,
+      "title": "波形逐渐消逝",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        38,
+        187,
+        50,
+        14
+      ],
+      "id": 1155,
+      "window_class": 128,
+      "title": "文字",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        127,
+        187,
+        50,
+        14
+      ],
+      "id": 1036,
+      "window_class": 128,
+      "title": "选择",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        221,
+        194,
+        52,
+        14
+      ],
+      "id": 2154,
+      "window_class": 128,
+      "title": "配置文件",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342177287,
+      "rect": [
+        7,
+        68,
+        266,
+        47
+      ],
+      "id": 4294967295,
+      "window_class": 128,
+      "title": "频谱分析",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        13,
+        80,
+        38,
+        14
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "配色方案:",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        13,
+        18,
+        53,
+        14
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "视觉效果类型:",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        13,
+        35,
+        53,
+        14
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "分析显示速度:",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342177287,
+      "rect": [
+        7,
+        118,
+        266,
+        51
+      ],
+      "id": 4294967295,
+      "window_class": 128,
+      "title": "示波显示",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        13,
+        130,
+        38,
+        14
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "配色方案:",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        13,
+        151,
+        38,
+        14
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "消逝速度:",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342177287,
+      "rect": [
+        7,
+        7,
+        266,
+        58
+      ],
+      "id": 4294967295,
+      "window_class": 128,
+      "title": "选项",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        160,
+        35,
+        33,
+        14
+      ],
+      "id": 2035,
+      "window_class": 130,
+      "title": "0  帧/秒",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308352,
+      "rect": [
+        70,
+        52,
+        9,
+        8
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "10",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308352,
+      "rect": [
+        147,
+        52,
+        9,
+        8
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "40",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342177287,
+      "rect": [
+        7,
+        175,
+        178,
+        33
+      ],
+      "id": 4294967295,
+      "window_class": 128,
+      "title": "文字显示",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        104,
+        187,
+        22,
+        13
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "字体:",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        14,
+        187,
+        21,
+        13
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "颜色:",
+      "creation_data": ""
+    }
+  ],
+  "tail": ""
+}

@@ -1,0 +1,120 @@
+{
+  "help_id": 0,
+  "exstyle": 0,
+  "style": 2160591048,
+  "rect": [
+    0,
+    0,
+    209,
+    98
+  ],
+  "menu": "",
+  "window_class": "",
+  "title": "下载歌曲保存路径",
+  "font": {
+    "points": 8,
+    "weight": 400,
+    "italic": 0,
+    "charset": 1,
+    "face": "MS Shell Dlg"
+  },
+  "controls": [
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308352,
+      "rect": [
+        10,
+        7,
+        187,
+        17
+      ],
+      "id": 2274,
+      "window_class": 130,
+      "title": "这是您第一次使用下载功能，是否需要更改歌曲默认保存文件夹：",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1350631552,
+      "rect": [
+        13,
+        31,
+        132,
+        14
+      ],
+      "id": 2270,
+      "window_class": 129,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        147,
+        31,
+        50,
+        14
+      ],
+      "id": 2271,
+      "window_class": 128,
+      "title": "浏览...",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242817,
+      "rect": [
+        89,
+        77,
+        50,
+        14
+      ],
+      "id": 2272,
+      "window_class": 128,
+      "title": "确定",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        147,
+        77,
+        50,
+        14
+      ],
+      "id": 2273,
+      "window_class": 128,
+      "title": "取消",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308352,
+      "rect": [
+        15,
+        53,
+        182,
+        20
+      ],
+      "id": 2275,
+      "window_class": 130,
+      "title": "友情提示：如果您的皮肤没有下载管理面板，建议您更换默认皮肤完美享受下载体验",
+      "creation_data": ""
+    }
+  ],
+  "tail": ""
+}

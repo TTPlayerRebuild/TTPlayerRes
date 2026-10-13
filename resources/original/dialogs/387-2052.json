@@ -1,0 +1,200 @@
+{
+  "help_id": 0,
+  "exstyle": 0,
+  "style": 2160591040,
+  "rect": [
+    0,
+    0,
+    201,
+    170
+  ],
+  "menu": "",
+  "window_class": "",
+  "title": "修改预设方案",
+  "font": {
+    "points": 9,
+    "weight": 400,
+    "italic": 0,
+    "charset": 0,
+    "face": "宋体"
+  },
+  "controls": [
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242817,
+      "rect": [
+        90,
+        149,
+        58,
+        14
+      ],
+      "id": 2094,
+      "window_class": 128,
+      "title": "保存修改",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        152,
+        149,
+        42,
+        14
+      ],
+      "id": 2,
+      "window_class": 128,
+      "title": "取消",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308352,
+      "rect": [
+        7,
+        12,
+        28,
+        10
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "命名：",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1350631552,
+      "rect": [
+        35,
+        8,
+        83,
+        13
+      ],
+      "id": 1005,
+      "window_class": 129,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308352,
+      "rect": [
+        120,
+        12,
+        74,
+        10
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "（限12个字符以内）",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308352,
+      "rect": [
+        7,
+        32,
+        75,
+        10
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "修改预设方案颜色：",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        136,
+        30,
+        50,
+        14
+      ],
+      "id": 1155,
+      "window_class": 128,
+      "title": "未播放",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        81,
+        30,
+        50,
+        14
+      ],
+      "id": 1156,
+      "window_class": 128,
+      "title": "已播放",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308352,
+      "rect": [
+        7,
+        51,
+        44,
+        10
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "歌词示例：",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1350696960,
+      "rect": [
+        7,
+        61,
+        187,
+        80
+      ],
+      "id": 1068,
+      "window_class": 130,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        7,
+        149,
+        50,
+        14
+      ],
+      "id": 3,
+      "window_class": 128,
+      "title": "恢复默认",
+      "creation_data": ""
+    }
+  ],
+  "tail": ""
+}

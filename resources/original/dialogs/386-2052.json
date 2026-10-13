@@ -1,0 +1,184 @@
+{
+  "help_id": 0,
+  "exstyle": 0,
+  "style": 2160591040,
+  "rect": [
+    0,
+    0,
+    166,
+    181
+  ],
+  "menu": "",
+  "window_class": "",
+  "title": "歌词颜色设定",
+  "font": {
+    "points": 9,
+    "weight": 400,
+    "italic": 0,
+    "charset": 0,
+    "face": "宋体"
+  },
+  "controls": [
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242817,
+      "rect": [
+        55,
+        160,
+        50,
+        14
+      ],
+      "id": 1,
+      "window_class": 128,
+      "title": "确定",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        109,
+        160,
+        50,
+        14
+      ],
+      "id": 2,
+      "window_class": 128,
+      "title": "取消",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        7,
+        5,
+        78,
+        9
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "颜色列表：",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1350696960,
+      "rect": [
+        7,
+        15,
+        95,
+        73
+      ],
+      "id": 2263,
+      "window_class": 130,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        109,
+        15,
+        50,
+        14
+      ],
+      "id": 2264,
+      "window_class": 128,
+      "title": "添加",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        109,
+        30,
+        50,
+        14
+      ],
+      "id": 2265,
+      "window_class": 128,
+      "title": "删除",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        109,
+        45,
+        50,
+        14
+      ],
+      "id": 2266,
+      "window_class": 128,
+      "title": "更改",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1350696960,
+      "rect": [
+        7,
+        90,
+        152,
+        62
+      ],
+      "id": 1068,
+      "window_class": 130,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        109,
+        60,
+        50,
+        14
+      ],
+      "id": 2267,
+      "window_class": 128,
+      "title": "上移",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        109,
+        75,
+        50,
+        14
+      ],
+      "id": 2268,
+      "window_class": 128,
+      "title": "下移",
+      "creation_data": ""
+    }
+  ],
+  "tail": ""
+}

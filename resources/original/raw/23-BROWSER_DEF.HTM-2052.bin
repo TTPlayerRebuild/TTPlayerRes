@@ -1,0 +1,74 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf8" />
+<title></title>
+<style type="text/css">
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.linking_table{
+    border:solid 1px #C4DCE0;
+	}
+.linking_table2{
+    border-bottom:solid 1px #CCCCCC;
+	}
+.linking_text01 {
+	color: #3E525C;
+	font-size: 14px;
+	font-weight: bold;
+}
+.linking_text02{
+	color: #5087A1;
+	font-size: 12px;
+}
+.linking_text03 {
+	color: #858585;
+	font-size: 14px;
+	font-weight: bold;
+}
+.linking_text04 {
+	color: #367893;
+	font-size: 12px;
+}
+.linking_text05 {
+	color: #858585;
+	font-size: 12px;
+}
+</style>
+</head>
+<body Scroll="no" oncontextmenu=return(false) style="border:solid 0px #ffffff;">
+<table width="458" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td height="400" align="center"><table width="356" border="0" cellspacing="0" cellpadding="0" class="index_table_pic">
+      <tr>
+        <td height="105" align="center" bgcolor="E9FBFB" class="linking_table" style="line-height:25px;"><span class="linking_text01">正在打开音乐窗...<br>
+        </span><span class="linking_text02">如果无法连接，请确认网络是否正常</span></td>
+      </tr>
+    </table>
+	<table width="360">
+	   <tr>
+	     <td height="226" valign="top" class="linking_text03"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+           <tr>
+             <td height="30" class="linking_table2"><span class="linking_text03">千千静听音乐窗都能做什么？</span></td>
+           </tr>
+           <tr>
+             <td style="line-height:22px;"><span class="linking_text04">新歌推荐</span><br>
+               <span class="linking_text05">新鲜歌曲天天换，贴心音乐每天都有好心情！</span><br>
+               <span class="linking_text04">重磅榜单</span><br>
+               <span class="linking_text05">最好听、最流行、最火爆的歌、千千榜单呈现音乐大全！</span><br>
+               <span class="linking_text04">音乐搜索</span><br>
+               <span class="linking_text05">歌手？歌曲？专辑？没问题，千千搜索一键完成！</span><br>
+               <span class="linking_text04">随便来点</span><br>
+               <span class="linking_text05">神秘新潮的随意听，满足您的音乐欲望！</span></td>
+           </tr>
+         </table></td>
+	   </tr>
+	</table>
+    </td>
+  </tr>
+</table>
+</body>
+</html>

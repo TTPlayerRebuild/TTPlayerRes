@@ -1,0 +1,17 @@
+{
+  "header": "",
+  "items": [
+    {
+      "flags": 0,
+      "text": "PlayList",
+      "items": [
+        {
+          "flags": 0,
+          "id": 32500,
+          "text": "空"
+        }
+      ]
+    }
+  ],
+  "tail": ""
+}

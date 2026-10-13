@@ -1,0 +1,232 @@
+{
+  "help_id": 0,
+  "exstyle": 128,
+  "style": 2160593088,
+  "rect": [
+    0,
+    0,
+    250,
+    79
+  ],
+  "menu": "",
+  "window_class": "",
+  "title": "查找文件",
+  "font": {
+    "points": 9,
+    "weight": 0,
+    "italic": 0,
+    "charset": 1,
+    "face": "宋体"
+  },
+  "controls": [
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1344339970,
+      "rect": [
+        37,
+        7,
+        140,
+        60
+      ],
+      "id": 1009,
+      "window_class": 133,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1344339970,
+      "rect": [
+        37,
+        24,
+        140,
+        60
+      ],
+      "id": 1021,
+      "window_class": 133,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1344339970,
+      "rect": [
+        37,
+        41,
+        140,
+        60
+      ],
+      "id": 1025,
+      "window_class": 133,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242819,
+      "rect": [
+        7,
+        62,
+        56,
+        10
+      ],
+      "id": 1103,
+      "window_class": 128,
+      "title": "大小写匹配",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242819,
+      "rect": [
+        65,
+        62,
+        56,
+        10
+      ],
+      "id": 1104,
+      "window_class": 128,
+      "title": "全字符匹配",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242819,
+      "rect": [
+        123,
+        62,
+        56,
+        10
+      ],
+      "id": 1102,
+      "window_class": 128,
+      "title": "反方向查找",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242817,
+      "rect": [
+        183,
+        7,
+        60,
+        14
+      ],
+      "id": 1002,
+      "window_class": 128,
+      "title": "查找下一个",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        183,
+        41,
+        60,
+        14
+      ],
+      "id": 2,
+      "window_class": 128,
+      "title": "关闭",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        183,
+        24,
+        60,
+        14
+      ],
+      "id": 1107,
+      "window_class": 128,
+      "title": "标记全部",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        7,
+        7,
+        30,
+        12
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "标  题:",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        7,
+        24,
+        29,
+        12
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "艺术家:",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        7,
+        41,
+        29,
+        12
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "专  辑:",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1073872896,
+      "rect": [
+        7,
+        25,
+        201,
+        8
+      ],
+      "id": 1052,
+      "window_class": 130,
+      "title": "提示: 在播放列表中输入汉字拼音的首字母即可快速定位",
+      "creation_data": ""
+    }
+  ],
+  "tail": ""
+}

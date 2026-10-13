@@ -1,0 +1,664 @@
+{
+  "help_id": 0,
+  "exstyle": 0,
+  "style": 1086324800,
+  "rect": [
+    0,
+    0,
+    280,
+    215
+  ],
+  "menu": "",
+  "window_class": "",
+  "title": "播放",
+  "font": {
+    "points": 9,
+    "weight": 0,
+    "italic": 0,
+    "charset": 1,
+    "face": "宋体"
+  },
+  "controls": [
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242819,
+      "rect": [
+        13,
+        18,
+        88,
+        10
+      ],
+      "id": 1070,
+      "window_class": 128,
+      "title": "程序启动时自动播放",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242819,
+      "rect": [
+        146,
+        17,
+        96,
+        10
+      ],
+      "id": 2092,
+      "window_class": 128,
+      "title": "继续上一次的播放进度",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1350639744,
+      "rect": [
+        92,
+        30,
+        30,
+        13
+      ],
+      "id": 1087,
+      "window_class": 129,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342177719,
+      "rect": [
+        134,
+        29,
+        11,
+        14
+      ],
+      "id": 1096,
+      "window_class": "msctls_updown32",
+      "title": "Spin1",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242819,
+      "rect": [
+        146,
+        30,
+        104,
+        13
+      ],
+      "id": 2093,
+      "window_class": 128,
+      "title": "出现错误时不再连续播放",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1344339971,
+      "rect": [
+        60,
+        46,
+        62,
+        67
+      ],
+      "id": 1100,
+      "window_class": 133,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1350639744,
+      "rect": [
+        193,
+        46,
+        40,
+        13
+      ],
+      "id": 2195,
+      "window_class": 129,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342177719,
+      "rect": [
+        245,
+        45,
+        11,
+        14
+      ],
+      "id": 1097,
+      "window_class": "msctls_updown32",
+      "title": "Spin1",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242819,
+      "rect": [
+        13,
+        79,
+        36,
+        13
+      ],
+      "id": 2070,
+      "window_class": 128,
+      "title": "播放时",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1350639744,
+      "rect": [
+        60,
+        79,
+        40,
+        13
+      ],
+      "id": 2075,
+      "window_class": 129,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342177719,
+      "rect": [
+        122,
+        78,
+        11,
+        14
+      ],
+      "id": 2080,
+      "window_class": "msctls_updown32",
+      "title": "Spin1",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242819,
+      "rect": [
+        146,
+        79,
+        36,
+        13
+      ],
+      "id": 2071,
+      "window_class": 128,
+      "title": "暂停时",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1350639744,
+      "rect": [
+        193,
+        79,
+        40,
+        13
+      ],
+      "id": 2076,
+      "window_class": 129,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342177719,
+      "rect": [
+        255,
+        78,
+        11,
+        14
+      ],
+      "id": 2081,
+      "window_class": "msctls_updown32",
+      "title": "Spin1",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242819,
+      "rect": [
+        13,
+        94,
+        46,
+        13
+      ],
+      "id": 2072,
+      "window_class": 128,
+      "title": "交叉定位",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1350639744,
+      "rect": [
+        60,
+        94,
+        40,
+        13
+      ],
+      "id": 2077,
+      "window_class": 129,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342177719,
+      "rect": [
+        122,
+        91,
+        11,
+        14
+      ],
+      "id": 2082,
+      "window_class": "msctls_updown32",
+      "title": "Spin1",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242819,
+      "rect": [
+        146,
+        95,
+        36,
+        10
+      ],
+      "id": 2073,
+      "window_class": 128,
+      "title": "停止时",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1350639744,
+      "rect": [
+        193,
+        94,
+        40,
+        13
+      ],
+      "id": 2078,
+      "window_class": 129,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342177719,
+      "rect": [
+        254,
+        93,
+        11,
+        14
+      ],
+      "id": 2083,
+      "window_class": "msctls_updown32",
+      "title": "Spin1",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242819,
+      "rect": [
+        13,
+        109,
+        69,
+        13
+      ],
+      "id": 2074,
+      "window_class": 128,
+      "title": "歌曲自动切换时",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1350639744,
+      "rect": [
+        84,
+        109,
+        40,
+        13
+      ],
+      "id": 2079,
+      "window_class": 129,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342177719,
+      "rect": [
+        146,
+        109,
+        11,
+        14
+      ],
+      "id": 2084,
+      "window_class": "msctls_updown32",
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242819,
+      "rect": [
+        13,
+        141,
+        240,
+        10
+      ],
+      "id": 2129,
+      "window_class": 128,
+      "title": "启用回放增益(使用增益信息将不同文件的音量调节到相同水平)",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242819,
+      "rect": [
+        13,
+        154,
+        232,
+        10
+      ],
+      "id": 2130,
+      "window_class": 128,
+      "title": "自动扫描(在播放未包含增益信息的文件时自动扫描增益信息)",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242819,
+      "rect": [
+        13,
+        167,
+        168,
+        10
+      ],
+      "id": 2131,
+      "window_class": 128,
+      "title": "扫描增益信息时跳过已包含增益信息的文件",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        103,
+        79,
+        20,
+        13
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "毫秒",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        13,
+        30,
+        74,
+        13
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "连续播放文件时间隔:",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        13,
+        46,
+        46,
+        12
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "播放优先级:",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        125,
+        30,
+        10,
+        13
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "秒",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        146,
+        46,
+        45,
+        12
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "全文件缓冲:",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        236,
+        46,
+        9,
+        12
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "KB",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342177287,
+      "rect": [
+        7,
+        7,
+        266,
+        58
+      ],
+      "id": 4294967295,
+      "window_class": 128,
+      "title": "播放",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342177287,
+      "rect": [
+        7,
+        68,
+        266,
+        58
+      ],
+      "id": 4294967295,
+      "window_class": 128,
+      "title": "声音淡入淡出(仅支持DirectSound输出方式)",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342177287,
+      "rect": [
+        7,
+        129,
+        266,
+        79
+      ],
+      "id": 4294967295,
+      "window_class": 128,
+      "title": "回放增益(自动音量)",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308352,
+      "rect": [
+        13,
+        180,
+        254,
+        25
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "提示: \"自动增益信息\"是通过对音频文件的扫描分析检测到的一个最佳的增益值, 在以后的播放中如果使用这个增益值就可以把音频文件的音量调整到最佳的水平,从而减少甚至避免不同音频文件之间的音量差异. ",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        236,
+        94,
+        20,
+        13
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "毫秒",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        236,
+        79,
+        20,
+        13
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "毫秒",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        103,
+        94,
+        20,
+        13
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "毫秒",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        127,
+        109,
+        20,
+        13
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "毫秒",
+      "creation_data": ""
+    }
+  ],
+  "tail": ""
+}

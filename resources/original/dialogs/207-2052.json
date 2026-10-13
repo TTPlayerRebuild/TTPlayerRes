@@ -1,0 +1,136 @@
+{
+  "help_id": 0,
+  "exstyle": 0,
+  "style": 2160591040,
+  "rect": [
+    0,
+    0,
+    199,
+    61
+  ],
+  "menu": "",
+  "window_class": "",
+  "title": "调整全部歌词时间",
+  "font": {
+    "points": 9,
+    "weight": 0,
+    "italic": 0,
+    "charset": 1,
+    "face": "宋体"
+  },
+  "controls": [
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1350631552,
+      "rect": [
+        117,
+        7,
+        50,
+        14
+      ],
+      "id": 2123,
+      "window_class": 129,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342177462,
+      "rect": [
+        162,
+        15,
+        11,
+        14
+      ],
+      "id": 2124,
+      "window_class": "msctls_updown32",
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242817,
+      "rect": [
+        47,
+        40,
+        50,
+        14
+      ],
+      "id": 1,
+      "window_class": 128,
+      "title": "确定",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        101,
+        40,
+        50,
+        14
+      ],
+      "id": 2,
+      "window_class": 128,
+      "title": "取消",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        7,
+        7,
+        110,
+        14
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "请输入要调整歌词的偏移时间:",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        171,
+        7,
+        21,
+        14
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "毫秒",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308352,
+      "rect": [
+        7,
+        25,
+        121,
+        8
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "提示:负数表示提前,正数表示延后",
+      "creation_data": ""
+    }
+  ],
+  "tail": ""
+}

@@ -1,0 +1,248 @@
+{
+  "help_id": 0,
+  "exstyle": 0,
+  "style": 1086324800,
+  "rect": [
+    0,
+    0,
+    280,
+    215
+  ],
+  "menu": "",
+  "window_class": "",
+  "title": "皮肤",
+  "font": {
+    "points": 9,
+    "weight": 0,
+    "italic": 0,
+    "charset": 1,
+    "face": "宋体"
+  },
+  "controls": [
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 512,
+      "style": 1345388803,
+      "rect": [
+        7,
+        18,
+        80,
+        172
+      ],
+      "id": 1064,
+      "window_class": 131,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        7,
+        194,
+        40,
+        14
+      ],
+      "id": 1098,
+      "window_class": 128,
+      "title": "应用",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342373888,
+      "rect": [
+        125,
+        159,
+        148,
+        8
+      ],
+      "id": 1005,
+      "window_class": 130,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342373888,
+      "rect": [
+        125,
+        171,
+        148,
+        8
+      ],
+      "id": 1066,
+      "window_class": 130,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342373888,
+      "rect": [
+        125,
+        183,
+        148,
+        8
+      ],
+      "id": 1067,
+      "window_class": 130,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308352,
+      "rect": [
+        93,
+        159,
+        29,
+        8
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "作  者:",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308352,
+      "rect": [
+        93,
+        171,
+        29,
+        8
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "主  页:",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308352,
+      "rect": [
+        93,
+        183,
+        29,
+        8
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "邮  箱:",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308352,
+      "rect": [
+        7,
+        7,
+        61,
+        8
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "请选择程序皮肤:",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308352,
+      "rect": [
+        93,
+        7,
+        37,
+        8
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "皮肤预览:",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 512,
+      "style": 1342251012,
+      "rect": [
+        93,
+        18,
+        180,
+        136
+      ],
+      "id": 1068,
+      "window_class": "SysListView32",
+      "title": "List1",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308352,
+      "rect": [
+        93,
+        200,
+        80,
+        8
+      ],
+      "id": 2109,
+      "window_class": 130,
+      "title": "下载更多皮肤...",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308354,
+      "rect": [
+        134,
+        7,
+        139,
+        8
+      ],
+      "id": 2001,
+      "window_class": 130,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        47,
+        194,
+        40,
+        14
+      ],
+      "id": 1039,
+      "window_class": 128,
+      "title": "删除",
+      "creation_data": ""
+    }
+  ],
+  "tail": ""
+}

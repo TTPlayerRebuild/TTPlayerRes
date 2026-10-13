@@ -1,0 +1,22 @@
+{
+  "header": "",
+  "items": [
+    {
+      "flags": 0,
+      "text": "App Icon",
+      "items": [
+        {
+          "flags": 0,
+          "id": 33000,
+          "text": "默认或皮肤图标(&D)"
+        },
+        {
+          "flags": 0,
+          "id": 33001,
+          "text": "自定义图标(&C)..."
+        }
+      ]
+    }
+  ],
+  "tail": ""
+}

@@ -1,0 +1,104 @@
+{
+  "help_id": 0,
+  "exstyle": 0,
+  "style": 2160591040,
+  "rect": [
+    0,
+    0,
+    340,
+    180
+  ],
+  "menu": "",
+  "window_class": "",
+  "title": "歌词关联",
+  "font": {
+    "points": 9,
+    "weight": 0,
+    "italic": 0,
+    "charset": 1,
+    "face": "宋体"
+  },
+  "controls": [
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242817,
+      "rect": [
+        283,
+        159,
+        50,
+        14
+      ],
+      "id": 1,
+      "window_class": 128,
+      "title": "关闭",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1350666249,
+      "rect": [
+        7,
+        7,
+        326,
+        147
+      ],
+      "id": 1064,
+      "window_class": "SysListView32",
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1476460544,
+      "rect": [
+        7,
+        159,
+        60,
+        14
+      ],
+      "id": 32813,
+      "window_class": 128,
+      "title": "重新关联",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1476460544,
+      "rect": [
+        71,
+        159,
+        60,
+        14
+      ],
+      "id": 32814,
+      "window_class": 128,
+      "title": "撤消关联",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        135,
+        159,
+        60,
+        14
+      ],
+      "id": 2132,
+      "window_class": 128,
+      "title": "删除错误关联",
+      "creation_data": ""
+    }
+  ],
+  "tail": ""
+}

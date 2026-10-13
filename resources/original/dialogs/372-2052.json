@@ -1,0 +1,744 @@
+{
+  "help_id": 0,
+  "exstyle": 0,
+  "style": 1086324800,
+  "rect": [
+    0,
+    0,
+    350,
+    216
+  ],
+  "menu": "",
+  "window_class": "",
+  "title": "属性",
+  "font": {
+    "points": 9,
+    "weight": 0,
+    "italic": 0,
+    "charset": 1,
+    "face": "宋体"
+  },
+  "controls": [
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1350631552,
+      "rect": [
+        43,
+        37,
+        164,
+        13
+      ],
+      "id": 1009,
+      "window_class": 129,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1350631552,
+      "rect": [
+        43,
+        53,
+        126,
+        13
+      ],
+      "id": 1021,
+      "window_class": 129,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308352,
+      "rect": [
+        174,
+        55,
+        33,
+        8
+      ],
+      "id": 1066,
+      "window_class": 130,
+      "title": "歌手详情",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1350631552,
+      "rect": [
+        43,
+        71,
+        116,
+        13
+      ],
+      "id": 1025,
+      "window_class": 129,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1350639746,
+      "rect": [
+        186,
+        71,
+        21,
+        13
+      ],
+      "id": 1029,
+      "window_class": 129,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1344340226,
+      "rect": [
+        43,
+        87,
+        104,
+        180
+      ],
+      "id": 1030,
+      "window_class": 133,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1350631554,
+      "rect": [
+        174,
+        87,
+        33,
+        13
+      ],
+      "id": 1031,
+      "window_class": 129,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1350631492,
+      "rect": [
+        43,
+        105,
+        164,
+        30
+      ],
+      "id": 1032,
+      "window_class": 129,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1082230861,
+      "rect": [
+        13,
+        37,
+        194,
+        98
+      ],
+      "id": 2164,
+      "window_class": "SysListView32",
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        13,
+        37,
+        30,
+        13
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "标  题:",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        13,
+        53,
+        30,
+        13
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "艺术家:",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        13,
+        71,
+        30,
+        13
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "专  辑:",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308866,
+      "rect": [
+        150,
+        87,
+        21,
+        13
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "年代:",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        13,
+        87,
+        30,
+        13
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "流  派:",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        13,
+        105,
+        30,
+        13
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "备  注:",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342177287,
+      "rect": [
+        7,
+        25,
+        206,
+        133
+      ],
+      "id": 4294967295,
+      "window_class": 128,
+      "title": "标签",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        163,
+        71,
+        20,
+        13
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "音轨:",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1344339971,
+      "rect": [
+        79,
+        173,
+        131,
+        68
+      ],
+      "id": 2163,
+      "window_class": 133,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1344339971,
+      "rect": [
+        258,
+        171,
+        79,
+        70
+      ],
+      "id": 2161,
+      "window_class": 133,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        219,
+        172,
+        36,
+        12
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "写入类型:",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342177287,
+      "rect": [
+        7,
+        161,
+        336,
+        48
+      ],
+      "id": 4294967295,
+      "window_class": 128,
+      "title": "MP3标签",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        13,
+        172,
+        61,
+        12
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "读取类型优先级:",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        14,
+        189,
+        59,
+        12
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "ID3v2编码类型:",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1344339971,
+      "rect": [
+        79,
+        189,
+        131,
+        52
+      ],
+      "id": 2174,
+      "window_class": 133,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242819,
+      "rect": [
+        219,
+        189,
+        108,
+        12
+      ],
+      "id": 2175,
+      "window_class": 128,
+      "title": "ID3v2写入时使用填充数据",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 512,
+      "style": 1342244992,
+      "rect": [
+        247,
+        37,
+        90,
+        13
+      ],
+      "id": 1018,
+      "window_class": 129,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 512,
+      "style": 1342244992,
+      "rect": [
+        247,
+        53,
+        90,
+        13
+      ],
+      "id": 1003,
+      "window_class": 129,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 512,
+      "style": 1342244992,
+      "rect": [
+        247,
+        71,
+        90,
+        13
+      ],
+      "id": 1001,
+      "window_class": 129,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 512,
+      "style": 1342244992,
+      "rect": [
+        247,
+        87,
+        90,
+        13
+      ],
+      "id": 1007,
+      "window_class": 129,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 512,
+      "style": 1342244992,
+      "rect": [
+        247,
+        105,
+        90,
+        13
+      ],
+      "id": 1105,
+      "window_class": 129,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 512,
+      "style": 1342244992,
+      "rect": [
+        247,
+        121,
+        90,
+        13
+      ],
+      "id": 1013,
+      "window_class": 129,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 512,
+      "style": 1342244992,
+      "rect": [
+        247,
+        139,
+        90,
+        13
+      ],
+      "id": 1048,
+      "window_class": 129,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        225,
+        37,
+        21,
+        13
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "编码:",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        225,
+        53,
+        21,
+        13
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "声道:",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        225,
+        71,
+        21,
+        13
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "频率:",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        225,
+        105,
+        21,
+        13
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "码率:",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        225,
+        121,
+        21,
+        13
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "长度:",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        225,
+        87,
+        21,
+        13
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "比特:",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342177287,
+      "rect": [
+        219,
+        25,
+        124,
+        133
+      ],
+      "id": 4294967295,
+      "window_class": 128,
+      "title": "格式",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        225,
+        139,
+        21,
+        13
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "增益:",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1350633600,
+      "rect": [
+        38,
+        8,
+        91,
+        14
+      ],
+      "id": 2001,
+      "window_class": 129,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        133,
+        7,
+        80,
+        14
+      ],
+      "id": 2160,
+      "window_class": 128,
+      "title": "从文件名猜测标签...",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        7,
+        7,
+        30,
+        14
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "文件名:",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308352,
+      "rect": [
+        220,
+        11,
+        37,
+        8
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "歌曲来源:",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1350633600,
+      "rect": [
+        259,
+        8,
+        75,
+        14
+      ],
+      "id": 2280,
+      "window_class": 129,
+      "title": "",
+      "creation_data": ""
+    }
+  ],
+  "tail": ""
+}

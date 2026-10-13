@@ -1,0 +1,104 @@
+{
+  "help_id": 0,
+  "exstyle": 0,
+  "style": 2160591040,
+  "rect": [
+    0,
+    0,
+    180,
+    195
+  ],
+  "menu": "",
+  "window_class": "",
+  "title": "选择播放列表",
+  "font": {
+    "points": 9,
+    "weight": 0,
+    "italic": 0,
+    "charset": 1,
+    "face": "宋体"
+  },
+  "controls": [
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1352728833,
+      "rect": [
+        7,
+        18,
+        166,
+        150
+      ],
+      "id": 1064,
+      "window_class": 131,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        7,
+        174,
+        50,
+        14
+      ],
+      "id": 32513,
+      "window_class": 128,
+      "title": "新列表",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242817,
+      "rect": [
+        65,
+        174,
+        50,
+        14
+      ],
+      "id": 1,
+      "window_class": 128,
+      "title": "确定",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        123,
+        174,
+        50,
+        14
+      ],
+      "id": 2,
+      "window_class": 128,
+      "title": "取消",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308352,
+      "rect": [
+        7,
+        7,
+        69,
+        8
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "选择目标播放列表:",
+      "creation_data": ""
+    }
+  ],
+  "tail": ""
+}

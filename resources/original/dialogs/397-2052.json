@@ -1,0 +1,88 @@
+{
+  "help_id": 0,
+  "exstyle": 0,
+  "style": 2160591048,
+  "rect": [
+    0,
+    0,
+    240,
+    58
+  ],
+  "menu": "",
+  "window_class": "",
+  "title": "友情提示",
+  "font": {
+    "points": 8,
+    "weight": 400,
+    "italic": 0,
+    "charset": 1,
+    "face": "MS Shell Dlg"
+  },
+  "controls": [
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308352,
+      "rect": [
+        9,
+        21,
+        67,
+        8
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "请选择您的操作：",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        99,
+        39,
+        60,
+        14
+      ],
+      "id": 2278,
+      "window_class": 128,
+      "title": "重新下载",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        170,
+        39,
+        60,
+        14
+      ],
+      "id": 2279,
+      "window_class": 128,
+      "title": "取消",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308352,
+      "rect": [
+        9,
+        7,
+        226,
+        8
+      ],
+      "id": 2277,
+      "window_class": 130,
+      "title": "歌曲名",
+      "creation_data": ""
+    }
+  ],
+  "tail": ""
+}

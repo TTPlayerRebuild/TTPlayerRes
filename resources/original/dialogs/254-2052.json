@@ -1,0 +1,488 @@
+{
+  "help_id": 0,
+  "exstyle": 0,
+  "style": 1086324800,
+  "rect": [
+    0,
+    0,
+    280,
+    215
+  ],
+  "menu": "",
+  "window_class": "",
+  "title": "播放列表",
+  "font": {
+    "points": 9,
+    "weight": 0,
+    "italic": 0,
+    "charset": 1,
+    "face": "宋体"
+  },
+  "controls": [
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242819,
+      "rect": [
+        13,
+        18,
+        128,
+        10
+      ],
+      "id": 2010,
+      "window_class": 128,
+      "title": "允许在播放列表上进行拖放操作",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242819,
+      "rect": [
+        146,
+        18,
+        100,
+        10
+      ],
+      "id": 2128,
+      "window_class": 128,
+      "title": "禁用物理文件删除功能",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242819,
+      "rect": [
+        13,
+        32,
+        130,
+        10
+      ],
+      "id": 2125,
+      "window_class": 128,
+      "title": "使用相对路径保存歌曲的文件名",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242819,
+      "rect": [
+        146,
+        32,
+        120,
+        10
+      ],
+      "id": 2045,
+      "window_class": 128,
+      "title": "加载列表时忽略不存在的文件",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242819,
+      "rect": [
+        13,
+        47,
+        112,
+        10
+      ],
+      "id": 2008,
+      "window_class": 128,
+      "title": "在每个曲目上提示文件信息",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1344339971,
+      "rect": [
+        156,
+        45,
+        46,
+        47
+      ],
+      "id": 2009,
+      "window_class": 133,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342251011,
+      "rect": [
+        13,
+        61,
+        253,
+        16
+      ],
+      "id": 2148,
+      "window_class": 128,
+      "title": "缓存已读取的文件信息到播放列表中,避免以后加载列表时重新读取\n(这样会增加列表文件的大小和内存的使用)",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        36,
+        95,
+        36,
+        14
+      ],
+      "id": 1155,
+      "window_class": 128,
+      "title": "标题",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        72,
+        95,
+        36,
+        14
+      ],
+      "id": 1156,
+      "window_class": 128,
+      "title": "加亮",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        108,
+        95,
+        36,
+        14
+      ],
+      "id": 1159,
+      "window_class": 128,
+      "title": "序号",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        144,
+        95,
+        36,
+        14
+      ],
+      "id": 1160,
+      "window_class": 128,
+      "title": "长度",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        72,
+        111,
+        36,
+        14
+      ],
+      "id": 1158,
+      "window_class": 128,
+      "title": "背景",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        108,
+        111,
+        36,
+        14
+      ],
+      "id": 1162,
+      "window_class": 128,
+      "title": "背景2",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1350631552,
+      "rect": [
+        201,
+        159,
+        66,
+        13
+      ],
+      "id": 1089,
+      "window_class": 129,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242819,
+      "rect": [
+        13,
+        159,
+        74,
+        13
+      ],
+      "id": 1099,
+      "window_class": 128,
+      "title": "有标签时的格式:",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1350631552,
+      "rect": [
+        87,
+        159,
+        70,
+        13
+      ],
+      "id": 1097,
+      "window_class": 129,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342177287,
+      "rect": [
+        7,
+        7,
+        266,
+        75
+      ],
+      "id": 4294967295,
+      "window_class": 128,
+      "title": "选项",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        163,
+        159,
+        38,
+        13
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "默认格式:",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342177287,
+      "rect": [
+        7,
+        135,
+        266,
+        73
+      ],
+      "id": 4294967295,
+      "window_class": 128,
+      "title": "标题格式",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        13,
+        95,
+        21,
+        14
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "颜色:",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308352,
+      "rect": [
+        14,
+        177,
+        252,
+        25
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "%F:文件名   %E:扩展名    %P:上级路径  %C:编码      %B:码率\n%A:艺术家   %T:标题      %L:专辑      %G:流派      %I:音轨号\n%Y:年代     %D:备注      %R:星级      %(字段名):其它标签字段",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342177287,
+      "rect": [
+        7,
+        85,
+        266,
+        47
+      ],
+      "id": 4294967295,
+      "window_class": 128,
+      "title": "显示",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        215,
+        95,
+        52,
+        14
+      ],
+      "id": 1036,
+      "window_class": 128,
+      "title": "选择",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242819,
+      "rect": [
+        13,
+        146,
+        96,
+        12
+      ],
+      "id": 1086,
+      "window_class": 128,
+      "title": "在歌曲标题前显示序号",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        191,
+        95,
+        21,
+        14
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "字体:",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        215,
+        112,
+        52,
+        14
+      ],
+      "id": 2154,
+      "window_class": 128,
+      "title": "配置文件",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        204,
+        45,
+        58,
+        12
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "时读取文件信息",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        146,
+        45,
+        9,
+        12
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "当",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        36,
+        111,
+        36,
+        14
+      ],
+      "id": 1161,
+      "window_class": 128,
+      "title": "选择",
+      "creation_data": ""
+    }
+  ],
+  "tail": ""
+}

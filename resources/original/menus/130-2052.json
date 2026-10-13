@@ -1,0 +1,32 @@
+{
+  "header": "",
+  "items": [
+    {
+      "flags": 0,
+      "text": "DOWNLOADING",
+      "items": [
+        {
+          "flags": 0,
+          "id": 32960,
+          "text": "开始下载(&S)"
+        },
+        {
+          "flags": 0,
+          "id": 32961,
+          "text": "暂停下载(&P)"
+        },
+        {
+          "flags": 0,
+          "id": 32962,
+          "text": "删除任务(&E)"
+        },
+        {
+          "flags": 0,
+          "id": 32963,
+          "text": "全部选中(&A)"
+        }
+      ]
+    }
+  ],
+  "tail": ""
+}

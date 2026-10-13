@@ -1,0 +1,280 @@
+{
+  "help_id": 0,
+  "exstyle": 0,
+  "style": 2160591040,
+  "rect": [
+    0,
+    0,
+    260,
+    165
+  ],
+  "menu": "",
+  "window_class": "",
+  "title": "在线搜索并下载歌词",
+  "font": {
+    "points": 9,
+    "weight": 0,
+    "italic": 0,
+    "charset": 1,
+    "face": "宋体"
+  },
+  "controls": [
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1344339971,
+      "rect": [
+        53,
+        7,
+        160,
+        57
+      ],
+      "id": 2090,
+      "window_class": 133,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1350631552,
+      "rect": [
+        29,
+        25,
+        74,
+        13
+      ],
+      "id": 1021,
+      "window_class": 129,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1350631552,
+      "rect": [
+        129,
+        25,
+        74,
+        13
+      ],
+      "id": 1009,
+      "window_class": 129,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242817,
+      "rect": [
+        208,
+        25,
+        45,
+        14
+      ],
+      "id": 1046,
+      "window_class": 128,
+      "title": "搜索",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1350631552,
+      "rect": [
+        37,
+        127,
+        216,
+        14
+      ],
+      "id": 2001,
+      "window_class": 129,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242819,
+      "rect": [
+        7,
+        145,
+        110,
+        14
+      ],
+      "id": 2064,
+      "window_class": 128,
+      "title": "下载后与歌曲文件进行关联",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        150,
+        145,
+        50,
+        14
+      ],
+      "id": 1,
+      "window_class": 128,
+      "title": "下载",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        203,
+        145,
+        50,
+        14
+      ],
+      "id": 2,
+      "window_class": 128,
+      "title": "关闭",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308352,
+      "rect": [
+        7,
+        45,
+        122,
+        8
+      ],
+      "id": 1052,
+      "window_class": 130,
+      "title": "选择搜索到的歌词文件进行下载:",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        7,
+        127,
+        29,
+        14
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "保存为:",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        7,
+        7,
+        45,
+        12
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "歌词服务器:",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        107,
+        25,
+        22,
+        12
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "歌名:",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        7,
+        25,
+        22,
+        12
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "歌手:",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308352,
+      "rect": [
+        217,
+        10,
+        36,
+        10
+      ],
+      "id": 2185,
+      "window_class": 130,
+      "title": "代理设置",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 512,
+      "style": 1342244877,
+      "rect": [
+        7,
+        56,
+        246,
+        66
+      ],
+      "id": 1064,
+      "window_class": "SysListView32",
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308352,
+      "rect": [
+        170,
+        45,
+        82,
+        8
+      ],
+      "id": 2269,
+      "window_class": 130,
+      "title": "点击此处帮你找到歌词",
+      "creation_data": ""
+    }
+  ],
+  "tail": ""
+}

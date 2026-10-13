@@ -1,0 +1,12 @@
+<download_window>
+		<linklabel position="10, 10, 194, 25" color="#517DAE" bkgnd="#DEEFFE" font="SimSun" font_size="12" />
+		<setting position="368, 7, 453, 32" image="setting.bmp" />
+		<banner position="0, 0, 470, 36" image="banner.bmp" />
+		<scrollbar buttons_image="scrollbar_updown.bmp" thumb_image="scrollbar_thumb.bmp" bar_image="scrollbar.bmp" align="center"/>
+		<splitter position="0, 36, 457, 424" split_clr_front="#D2DFE5" split_clr_bkg="#EAF4FF"/>
+		<listsinfo font="Arial" font_size="12" text_color="#375092" selectclr="#B0D7FF" bk1clr="#FFFFFF" item_height="24"/>
+		<listinfo font="Arial" font_size="15" text_color="#375092" selectclr="#B0D7FF" bk1clr="#FFFFFF" bk2clr="#F1F8FF" item_height="24"/>
+		<stateimage state_finish="finish.bmp" state_failed="failed.bmp" state_downloading="downloading.bmp" state_play="play.bmp" state_pause="pause.bmp" state_waiting="waiting.bmp"/>
+		<header filedbkg="header_field.bmp" line_image= "line_s.bmp" sort_down="sort_down.bmp" sort_up="sort_up.bmp" font="SimSun" font_size="12" text_color="#233245"/>
+		<progress progress_clr="#6BABD7" progress_border="#C7D8E0" progress_text="#425889" disable_clr="#7D7D7D"/>
+</download_window>

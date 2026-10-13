@@ -1,0 +1,456 @@
+{
+  "help_id": 0,
+  "exstyle": 0,
+  "style": 1073741888,
+  "rect": [
+    0,
+    0,
+    260,
+    96
+  ],
+  "menu": "",
+  "window_class": "",
+  "title": "",
+  "font": {
+    "points": 9,
+    "weight": 400,
+    "italic": 0,
+    "charset": 0,
+    "face": "宋体"
+  },
+  "controls": [
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1344339971,
+      "rect": [
+        42,
+        5,
+        82,
+        69
+      ],
+      "id": 2257,
+      "window_class": 133,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1344339971,
+      "rect": [
+        174,
+        5,
+        81,
+        50
+      ],
+      "id": 1037,
+      "window_class": 133,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242819,
+      "rect": [
+        135,
+        47,
+        32,
+        10
+      ],
+      "id": 2258,
+      "window_class": 128,
+      "title": "阴影",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242819,
+      "rect": [
+        4,
+        23,
+        112,
+        10
+      ],
+      "id": 2150,
+      "window_class": 128,
+      "title": "卡拉OK方式显示当前行歌词",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242819,
+      "rect": [
+        170,
+        47,
+        64,
+        10
+      ],
+      "id": 2259,
+      "window_class": 128,
+      "title": "平滑字体效果",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        71,
+        57,
+        40,
+        14
+      ],
+      "id": 1155,
+      "window_class": 128,
+      "title": "未播放",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        26,
+        57,
+        40,
+        14
+      ],
+      "id": 1156,
+      "window_class": 128,
+      "title": "已播放",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        145,
+        59,
+        34,
+        14
+      ],
+      "id": 1158,
+      "window_class": 128,
+      "title": "背景",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        26,
+        38,
+        40,
+        14
+      ],
+      "id": 1036,
+      "window_class": 128,
+      "title": "选择",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        187,
+        59,
+        52,
+        14
+      ],
+      "id": 2154,
+      "window_class": 128,
+      "title": "预设方案",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        136,
+        5,
+        34,
+        13
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "对齐方式:",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        4,
+        5,
+        34,
+        13
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "歌词行数:",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        4,
+        57,
+        21,
+        13
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "颜色:",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        4,
+        37,
+        22,
+        13
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "字体:",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242819,
+      "rect": [
+        135,
+        21,
+        120,
+        10
+      ],
+      "id": 2022,
+      "window_class": 128,
+      "title": "自动调整窗口以适应歌词宽度",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        79,
+        38,
+        40,
+        14
+      ],
+      "id": 1038,
+      "window_class": 128,
+      "title": "描边",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242819,
+      "rect": [
+        70,
+        41,
+        10,
+        8
+      ],
+      "id": 2260,
+      "window_class": 128,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242819,
+      "rect": [
+        135,
+        62,
+        10,
+        8
+      ],
+      "id": 2261,
+      "window_class": 128,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        4,
+        76,
+        21,
+        13
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "文字:",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 32,
+      "style": 1342242840,
+      "rect": [
+        50,
+        78,
+        57,
+        9
+      ],
+      "id": 2262,
+      "window_class": "msctls_trackbar32",
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        135,
+        76,
+        21,
+        13
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "背景:",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 32,
+      "style": 1342242840,
+      "rect": [
+        181,
+        78,
+        57,
+        9
+      ],
+      "id": 2263,
+      "window_class": "msctls_trackbar32",
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        26,
+        76,
+        26,
+        13
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "不透明",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        109,
+        76,
+        16,
+        13
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "透明",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        157,
+        76,
+        26,
+        13
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "不透明",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        240,
+        76,
+        16,
+        13
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "透明",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242819,
+      "rect": [
+        135,
+        34,
+        104,
+        10
+      ],
+      "id": 2023,
+      "window_class": 128,
+      "title": "关闭时自动解锁桌面歌词",
+      "creation_data": ""
+    }
+  ],
+  "tail": ""
+}

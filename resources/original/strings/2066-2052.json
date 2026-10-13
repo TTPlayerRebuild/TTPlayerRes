@@ -1,0 +1,21 @@
+{
+  "strings": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "压缩文件(zip;rar)",
+    "TAK 音频文件(*.tak)",
+    "Wave 文件输出",
+    "Window Media 音频文件(*.wma;*.wmv;*.asf)",
+    "CD 数字音轨(*.cda)",
+    "CUE 索引文件(*.cue)",
+    "MP3 音频文件(*.mp3;*.mp2;*.mp1;*.mpa;*.mp3pro)",
+    "MIDI 音乐文件(*.mid;*.midi;*.rmi)"
+  ],
+  "tail": ""
+}

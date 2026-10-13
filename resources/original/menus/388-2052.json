@@ -1,0 +1,38 @@
+{
+  "header": "",
+  "items": [
+    {
+      "flags": 0,
+      "text": "PROFILE",
+      "items": [
+        {
+          "flags": 0,
+          "id": 32930,
+          "text": "方案一"
+        },
+        {
+          "flags": 0,
+          "id": 0,
+          "text": ""
+        },
+        {
+          "flags": 0,
+          "text": "修改预设方案",
+          "items": [
+            {
+              "flags": 0,
+              "id": 32940,
+              "text": "修改方案一"
+            }
+          ]
+        },
+        {
+          "flags": 0,
+          "id": 32838,
+          "text": "选项(&P)..."
+        }
+      ]
+    }
+  ],
+  "tail": ""
+}

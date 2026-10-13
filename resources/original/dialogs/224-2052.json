@@ -1,0 +1,104 @@
+{
+  "help_id": 0,
+  "exstyle": 0,
+  "style": 2160591040,
+  "rect": [
+    0,
+    0,
+    210,
+    87
+  ],
+  "menu": "",
+  "window_class": "",
+  "title": "文件名格式",
+  "font": {
+    "points": 9,
+    "weight": 0,
+    "italic": 0,
+    "charset": 1,
+    "face": "宋体"
+  },
+  "controls": [
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1344339970,
+      "rect": [
+        7,
+        18,
+        196,
+        92
+      ],
+      "id": 2161,
+      "window_class": 133,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242817,
+      "rect": [
+        53,
+        66,
+        50,
+        14
+      ],
+      "id": 1,
+      "window_class": 128,
+      "title": "确定",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        107,
+        66,
+        50,
+        14
+      ],
+      "id": 2,
+      "window_class": 128,
+      "title": "取消",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308352,
+      "rect": [
+        7,
+        7,
+        93,
+        8
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "请输入歌曲文件名的样式:",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308352,
+      "rect": [
+        7,
+        36,
+        196,
+        27
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "%(Artist): 艺术家\t%(Title): 歌曲标题\n%(Album): 专辑标题\t%(Tracknumber): 音轨号\n%(Genre): 流派\t\t%(Date): 年代",
+      "creation_data": ""
+    }
+  ],
+  "tail": ""
+}

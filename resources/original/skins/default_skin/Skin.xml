@@ -1,0 +1,108 @@
+<skin version="2" name="TT.experience" author="TTplayer" url="http://www.ttplayer.com" email="none" transparent_color="#ff00ff">
+    <player_window image="player_skin.bmp">
+      <play position="127, 113, 197, 134" image="play.bmp"/>
+      <pause position="127, 113, 197, 134" image="pause.bmp"/>
+      <prev position="66, 113, 126, 134" image="prev.bmp"/>
+      <next position="198, 113, 257, 134" image="next.bmp"/>
+      <stop position="9, 113, 65, 134" image="stop.bmp"/>
+      <open position="199, 3, 226, 23" image="open.bmp" />
+      <mute position="294, 76, 307, 86" image="mute.bmp" />
+
+      <lyric position="286, 91, 317, 108" image="lyric.bmp"/>
+      <equalizer position="248, 91, 285, 108" image="equalizer.bmp"/>
+      <playlist position="216, 91, 247, 108" image="playlist.bmp"/>
+      <browser position="258, 113, 318, 134" image="browser.bmp" />
+
+      <minimize position="230, 3, 257, 23" image="minimize.bmp"/>
+      <minimode position="257, 3, 288, 23" image="minimode.bmp"/>
+      <exit position="288, 3, 316, 23" image="close.bmp"/>
+
+      <progress position="16, 94, 169, 105" bar_image="" thumb_image="progress_thumb.bmp" fill_image="progress_fill.bmp" fill_image2="progress_fill2.bmp"/>
+      <volume position="295, 32, 307, 72" vertical="true"  fill_image="progress2.bmp"/>
+      
+      <icon position="7, 5, 23, 21" icon="TTPlayer.ico"/>
+      <info position="17, 35, 190, 49" color="#FFFFFF" font="Tahoma" font_size="13" align="left"/>
+      <led position="149, 95, 208, 103" image="number.bmp" align="right"/>
+      <stereo position="205, 41, 277, 55" color="#8BBAC6" font="Tahoma" font_size="13" align="right" />
+      <status position="205, 63, 277, 77" color="#8BBAC6" font="Tahoma" font_size="13" align="right" />
+      <visual position="17, 56, 167, 87"/>
+   </player_window>
+
+
+  <lyric_window position="0, 364, 327, 486" resize_rect="69, 34, 214, 101" image="lyric_skin.bmp">
+      <lyric position="16, 32, 312, 106"/>
+      <close position="288, 3, 316, 23" image="close3.bmp" align="right"/>
+      <ontop position="257, 3, 288, 23" image="ontop.bmp" align="right"/>
+      <desklrc position="230, 3, 257, 23" image="desklrc.bmp" align="right"/>
+  </lyric_window>
+
+
+
+
+<equalizer_window position="0, 141, 327, 240" image="eq_skin.bmp" eq_interval="5">      
+
+      <close position="289, 3, 316, 23" image="close2.bmp" align="right"/>
+      <enabled position="199, 3, 226, 23" image="eq_enabled.bmp"/>
+      <profile position="257, 3, 285, 23" image="eq_profile.bmp"/>
+      <reset position="226, 3, 257, 23" image="reset.bmp"/>
+      <balance position="19, 36, 71, 49" bar_image="" fill_image="eqfactor_full2.bmp" thumb_image="eqfactor_thumb2.bmp"/>
+      <surround position="19, 60, 71, 73" bar_image=""  fill_image="eqfactor_full2.bmp" thumb_image="eqfactor_thumb2.bmp"/>
+      <preamp position="92, 32, 105, 84" bar_image=""  fill_image="eqfactor_full.bmp" thumb_image="eqfactor_thumb.bmp"/>
+      <eqfactor position="131, 32, 144, 84" bar_image="" fill_image="eqfactor_full.bmp" thumb_image="eqfactor_thumb.bmp"/>
+</equalizer_window>
+
+
+
+
+   <playlist_window position="0, 240, 327, 364" resize_rect="77, 50, 258, 102" image="playlist_skin.bmp">
+      <close position="289, 3, 316, 23" image="close2.bmp" align="right"/>
+      <toolbar position="23, 26, 303, 47" image="playlist_toolbar.bmp" hot_image="playlist_toolbar_hot.bmp" align="left"/>
+      <scrollbar buttons_image="scrollbar_button.bmp" thumb_image="scrollbar_thumb.bmp" bar_image="scrollbar_bar.bmp" align="center"/>
+      <playlist position="11, 48, 316, 112" selected_image="playlist_selected.bmp"/>
+   </playlist_window>
+
+
+
+
+<mini_window image="mini-player.bmp">
+		<play position="261, 5, 282, 21" image="play_mini.bmp" />
+		<pause position="261, 5, 282, 21" image="pause_mini.bmp" />		
+		<prev position="236, 5, 257, 21" image="prev_mini.bmp" />
+		<next position="286, 5, 307, 21" image="next_mini.bmp" />
+		<progress position="129, 8, 224, 18" bar_image="" thumb_image="progress_thumb2.bmp" fill_image="progress_fill_mini.bmp" fill_image2="progress_fill_mini2.bmp"/>
+		<lyric position="376, 1, 382, 24" image="lyric_mini.bmp" />
+        <minimode position="336, 5, 353, 21" image="minimode_mini.bmp" />
+        <minimize position="316, 5, 333, 21" image="minimize_mini.bmp" />
+        <exit position="356, 5, 373, 21" image="close_mini.bmp" />
+		<info position="13, 6, 120, 19" color="#FFFFFF" font="Tahoma" font_size="13" align="left"/>
+		<icon position="-300, -300, -300, -300" image="ttplayer.ico"/>
+</mini_window>
+
+<browser_window position="327, 0, 807, 486" image="browser_skin.bmp" transparent_color="#ff00ff">
+		<close position="443, 3, 551, 23" image="close2.bmp" />
+		<minibtn position="109,4,165,23" image="browser_mini.bmp" />
+		<downloadbtn position="173,4,229,23" image="browser_download.bmp"/>
+		<backward position="13, 3, 40, 23" image="browser_backward.bmp" />
+		<forward position="40, 3, 71, 23" image="browser_forward.bmp" />
+		<refresh position="71, 3, 99, 23" image="browser_refresh.bmp" />
+		<startup position="11, 465, 115, 477" ckbox_image="browser_startup.bmp" interval=4 color="#5C7C9C" font="SimSun" font_size="12" />
+		<linktxt position="304, 465, 467, 477" color="#5C7C9C" font="SimSun" font_size="12" />
+		<browser position="12, 31, 468, 453" />
+</browser_window>
+
+<desklrc_bar image="desklrc_bar.bmp" transparent_color="#ff00ff">
+		<icon position="5, 4, 21, 20" icon="TTPlayer.ico" />
+		<play position="48, 6, 65, 19" image="desklrc_play.bmp" />
+		<pause position="48, 6, 65, 19" image="desklrc_pause.bmp" />		
+		<prev position="29, 6, 46, 19" image="desklrc_prev.bmp" />
+		<next position="67, 6, 84, 19" image="desklrc_next.bmp" />
+		<list position="86, 6, 103, 19" image="desklrc_list.bmp" />
+		<settings position="108, 6, 123, 19" image="desklrc_settings.bmp" />
+		<kalaok position="126, 6, 141, 19" image="desklrc_kalaok.bmp" />
+		<lines position="144, 6, 159, 19" image="desklrc_lines.bmp" />
+		<lock position="162, 6, 176, 19" image="desklrc_lock.bmp" />
+		<ontop position="179, 6, 191, 19" image="desklrc_ontop.bmp"/>    
+		<return position="194, 6, 208, 19" image="desklrc_return.bmp"/>    
+		<close position="210, 6, 224, 19" image="desklrc_close.bmp" />
+</desklrc_bar>
+</skin>

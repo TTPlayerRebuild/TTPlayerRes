@@ -1,0 +1,136 @@
+{
+  "help_id": 0,
+  "exstyle": 0,
+  "style": 2160591040,
+  "rect": [
+    0,
+    0,
+    220,
+    145
+  ],
+  "menu": "",
+  "window_class": "",
+  "title": "文件标签",
+  "font": {
+    "points": 9,
+    "weight": 0,
+    "italic": 0,
+    "charset": 1,
+    "face": "宋体"
+  },
+  "controls": [
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1344340226,
+      "rect": [
+        7,
+        18,
+        206,
+        142
+      ],
+      "id": 1005,
+      "window_class": 133,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1353777348,
+      "rect": [
+        7,
+        46,
+        206,
+        72
+      ],
+      "id": 2168,
+      "window_class": 129,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1350633600,
+      "rect": [
+        7,
+        18,
+        206,
+        14
+      ],
+      "id": 1052,
+      "window_class": 129,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242817,
+      "rect": [
+        110,
+        124,
+        50,
+        14
+      ],
+      "id": 1,
+      "window_class": 128,
+      "title": "确定",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        163,
+        124,
+        50,
+        14
+      ],
+      "id": 2,
+      "window_class": 128,
+      "title": "取消",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308352,
+      "rect": [
+        7,
+        7,
+        29,
+        8
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "字段名:",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308352,
+      "rect": [
+        7,
+        35,
+        29,
+        8
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "字段值:",
+      "creation_data": ""
+    }
+  ],
+  "tail": ""
+}

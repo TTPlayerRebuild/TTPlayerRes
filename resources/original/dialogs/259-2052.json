@@ -1,0 +1,184 @@
+{
+  "help_id": 0,
+  "exstyle": 0,
+  "style": 1086324800,
+  "rect": [
+    0,
+    0,
+    280,
+    215
+  ],
+  "menu": "",
+  "window_class": "",
+  "title": "音效插件",
+  "font": {
+    "points": 9,
+    "weight": 0,
+    "italic": 0,
+    "charset": 1,
+    "face": "宋体"
+  },
+  "controls": [
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1350633600,
+      "rect": [
+        52,
+        19,
+        192,
+        14
+      ],
+      "id": 1028,
+      "window_class": 129,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        248,
+        19,
+        14,
+        14
+      ],
+      "id": 1023,
+      "window_class": 128,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 512,
+      "style": 1342275597,
+      "rect": [
+        13,
+        38,
+        253,
+        130
+      ],
+      "id": 1064,
+      "window_class": "SysListView32",
+      "title": "List1",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1476460544,
+      "rect": [
+        13,
+        173,
+        70,
+        14
+      ],
+      "id": 1015,
+      "window_class": 128,
+      "title": "配置插件",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1476460544,
+      "rect": [
+        234,
+        173,
+        15,
+        14
+      ],
+      "id": 1042,
+      "window_class": 128,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1476460544,
+      "rect": [
+        251,
+        173,
+        15,
+        14
+      ],
+      "id": 1045,
+      "window_class": 128,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342177287,
+      "rect": [
+        7,
+        7,
+        266,
+        201
+      ],
+      "id": 4294967295,
+      "window_class": 128,
+      "title": "Winamp 2 音效插件(dsp_*.dll)",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        13,
+        19,
+        37,
+        14
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "插件目录:",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308352,
+      "rect": [
+        13,
+        194,
+        249,
+        9
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "提示: 选定即可激活,并且可以同时激活多个插件!",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        179,
+        173,
+        53,
+        14
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "调整加载顺序:",
+      "creation_data": ""
+    }
+  ],
+  "tail": ""
+}

@@ -1,0 +1,472 @@
+{
+  "help_id": 0,
+  "exstyle": 0,
+  "style": 1086324800,
+  "rect": [
+    0,
+    0,
+    280,
+    215
+  ],
+  "menu": "",
+  "window_class": "",
+  "title": "常规",
+  "font": {
+    "points": 9,
+    "weight": 0,
+    "italic": 0,
+    "charset": 1,
+    "face": "宋体"
+  },
+  "controls": [
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242819,
+      "rect": [
+        13,
+        18,
+        110,
+        10
+      ],
+      "id": 2088,
+      "window_class": 128,
+      "title": "启动播放器后最小化",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242819,
+      "rect": [
+        132,
+        18,
+        96,
+        10
+      ],
+      "id": 2085,
+      "window_class": 128,
+      "title": "在系统栏显示程序图标",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242819,
+      "rect": [
+        13,
+        31,
+        110,
+        10
+      ],
+      "id": 2127,
+      "window_class": 128,
+      "title": "在工具提示中显示快捷键",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242819,
+      "rect": [
+        132,
+        31,
+        111,
+        10
+      ],
+      "id": 2086,
+      "window_class": 128,
+      "title": "在屏幕右下角弹出播放提示",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242819,
+      "rect": [
+        13,
+        44,
+        110,
+        10
+      ],
+      "id": 1079,
+      "window_class": 128,
+      "title": "在菜单上显示命令提示",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242819,
+      "rect": [
+        132,
+        44,
+        103,
+        10
+      ],
+      "id": 2153,
+      "window_class": 128,
+      "title": "分多列显示播放曲目菜单",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242819,
+      "rect": [
+        13,
+        57,
+        110,
+        10
+      ],
+      "id": 2189,
+      "window_class": 128,
+      "title": "在任务栏滚动歌曲标题",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242819,
+      "rect": [
+        132,
+        57,
+        141,
+        10
+      ],
+      "id": 2188,
+      "window_class": 128,
+      "title": "向MSN和百度Hi发送播放的歌曲信息",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242819,
+      "rect": [
+        13,
+        70,
+        211,
+        10
+      ],
+      "id": 1075,
+      "window_class": 128,
+      "title": "淡入淡出效果显示主要窗口(需要Windows 2000或更高)",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242819,
+      "rect": [
+        13,
+        83,
+        94,
+        10
+      ],
+      "id": 1076,
+      "window_class": 128,
+      "title": "当窗口靠近时自动粘合",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1350639744,
+      "rect": [
+        107,
+        81,
+        30,
+        13
+      ],
+      "id": 1077,
+      "window_class": 129,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342177719,
+      "rect": [
+        159,
+        80,
+        11,
+        12
+      ],
+      "id": 1078,
+      "window_class": "msctls_updown32",
+      "title": "Spin1",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242819,
+      "rect": [
+        13,
+        96,
+        153,
+        10
+      ],
+      "id": 1083,
+      "window_class": 128,
+      "title": "标题栏自动切换歌曲信息,滚动延时间隔",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1350639744,
+      "rect": [
+        167,
+        94,
+        30,
+        13
+      ],
+      "id": 1084,
+      "window_class": 129,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342177719,
+      "rect": [
+        211,
+        93,
+        11,
+        12
+      ],
+      "id": 1044,
+      "window_class": "msctls_updown32",
+      "title": "Spin1",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242819,
+      "rect": [
+        13,
+        109,
+        72,
+        10
+      ],
+      "id": 2182,
+      "window_class": 128,
+      "title": "自动关闭计算机",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242819,
+      "rect": [
+        13,
+        143,
+        176,
+        10
+      ],
+      "id": 2139,
+      "window_class": 128,
+      "title": "从命令行方式打开文件时先清除当前播放列表",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242819,
+      "rect": [
+        13,
+        157,
+        151,
+        10
+      ],
+      "id": 2137,
+      "window_class": 128,
+      "title": "从命令行方式操作时总是针对这个列表:",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1350631552,
+      "rect": [
+        167,
+        155,
+        100,
+        13
+      ],
+      "id": 2138,
+      "window_class": 129,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1344339971,
+      "rect": [
+        92,
+        189,
+        60,
+        60
+      ],
+      "id": 1047,
+      "window_class": 133,
+      "title": "",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342177287,
+      "rect": [
+        7,
+        7,
+        266,
+        120
+      ],
+      "id": 4294967295,
+      "window_class": 128,
+      "title": "选项",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        140,
+        83,
+        18,
+        10
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "像素",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        200,
+        96,
+        12,
+        10
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "秒",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        13,
+        189,
+        78,
+        12
+      ],
+      "id": 4294967295,
+      "window_class": 130,
+      "title": "自动检查软件新版本:",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342177287,
+      "rect": [
+        7,
+        130,
+        266,
+        46
+      ],
+      "id": 4294967295,
+      "window_class": 128,
+      "title": "命令行方式(从外部打开或添加文件)",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342177287,
+      "rect": [
+        7,
+        179,
+        266,
+        29
+      ],
+      "id": 4294967295,
+      "window_class": 128,
+      "title": "软件更新",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242849,
+      "rect": [
+        85,
+        108,
+        52,
+        13
+      ],
+      "id": 2183,
+      "window_class": "SysDateTimePick32",
+      "title": "DateTimePicker1",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        159,
+        189,
+        60,
+        14
+      ],
+      "id": 2197,
+      "window_class": 128,
+      "title": "立即检查",
+      "creation_data": ""
+    }
+  ],
+  "tail": ""
+}

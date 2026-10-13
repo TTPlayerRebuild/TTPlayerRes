@@ -1,0 +1,88 @@
+{
+  "help_id": 0,
+  "exstyle": 0,
+  "style": 2161049664,
+  "rect": [
+    0,
+    0,
+    400,
+    165
+  ],
+  "menu": "",
+  "window_class": "",
+  "title": "正在扫描增益信息...",
+  "font": {
+    "points": 9,
+    "weight": 0,
+    "italic": 0,
+    "charset": 1,
+    "face": "宋体"
+  },
+  "controls": [
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        333,
+        144,
+        60,
+        14
+      ],
+      "id": 2,
+      "window_class": 128,
+      "title": "终止扫描",
+      "creation_data": ""
+    },
+    {
+      "padding": "",
+      "help_id": 0,
+      "exstyle": 512,
+      "style": 1342275653,
+      "rect": [
+        7,
+        7,
+        386,
+        132
+      ],
+      "id": 1064,
+      "window_class": "SysListView32",
+      "title": "List1",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342308864,
+      "rect": [
+        7,
+        144,
+        250,
+        14
+      ],
+      "id": 1052,
+      "window_class": 130,
+      "title": "0",
+      "creation_data": ""
+    },
+    {
+      "padding": "0000",
+      "help_id": 0,
+      "exstyle": 0,
+      "style": 1342242816,
+      "rect": [
+        270,
+        144,
+        60,
+        14
+      ],
+      "id": 2187,
+      "window_class": 128,
+      "title": "暂停扫描|继续扫描",
+      "creation_data": ""
+    }
+  ],
+  "tail": ""
+}
