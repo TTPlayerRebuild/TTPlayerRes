@@ -5,7 +5,7 @@ import json
 import re
 import struct
 from pathlib import Path
-from resource_model import original_entries, res_file, save_json, sha256
+from resource_model import original_entries, res_file, save_json, sha256, version_company_name
 
 
 def validate_version(version):
@@ -30,6 +30,8 @@ def main():
             raise ValueError(f'Original baseline changed: {key}; add a separate extension instead')
     if len(entries) != 192:
         raise ValueError('Expected all 192 original resources')
+    entries = [(key, version_company_name(raw) if key == (16, 1, 2052) else raw)
+               for key, raw in entries]
     args.output.mkdir(parents=True, exist_ok=True)
     (args.output / 'original.res').write_bytes(res_file(entries))
     metadata = dict(schema=1, extension_abi=1, version=version,
@@ -40,7 +42,7 @@ def main():
     (args.output / 'metadata.rc').write_text(
         'LANGUAGE 4, 2\nTTPLAYER_RES_ABI 10 "abi.bin"\n'
         'TTPLAYER_RES_BUILD 10 "build.json"\n', encoding='utf-8')
-    print(f'Compiled 192 immutable 5.7.9 resources; extension version {version}')
+    print(f'Compiled 192 baseline resources (CompanyName: Sonic853); extension version {version}')
 
 
 if __name__ == '__main__':
