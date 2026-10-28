@@ -5,7 +5,7 @@ import json
 import re
 import struct
 from pathlib import Path
-from resource_model import original_entries, res_file, save_json, sha256, version_company_name
+from resource_model import original_entries, res_file, save_json, sha256, version_company_name, corrected_tooltip, encode_strings
 
 
 def validate_version(version):
@@ -30,19 +30,37 @@ def main():
             raise ValueError(f'Original baseline changed: {key}; add a separate extension instead')
     if len(entries) != 192:
         raise ValueError('Expected all 192 original resources')
-    entries = [(key, version_company_name(raw) if key == (16, 1, 2052) else raw)
+    entries = [(key, version_company_name(raw) if key == (16, 1, 2052) else
+                corrected_tooltip(raw) if key == (6, 32904 // 16 + 1, 2052) else raw)
                for key, raw in entries]
+    messages = json.loads((args.source / 'resources/extended/messages.json').read_text(encoding='utf-8'))
+    blocks = {}
+    used = set()
+    for item in messages['messages']:
+        for field, id_field in [('source', 'id'), ('plural', 'plural_id')]:
+            if not item.get(field):
+                continue
+            ident = item[id_field]
+            if ident in used or not 48000 <= ident < 60000:
+                raise ValueError('Invalid extended message ID')
+            used.add(ident)
+            blocks.setdefault(ident // 16 + 1, [''] * 16)[ident % 16] = item[field]
+    entries += [((6, block, 2052), encode_strings(dict(strings=strings, tail='')))
+                for block, strings in sorted(blocks.items())]
+    entries.append(((10, 'TTPLAYER_RES_MESSAGES', 2052),
+                    json.dumps(messages, ensure_ascii=False, separators=(',', ':')).encode('utf-8')))
     args.output.mkdir(parents=True, exist_ok=True)
     (args.output / 'original.res').write_bytes(res_file(entries))
     metadata = dict(schema=1, extension_abi=1, version=version,
                     baseline_sha256=manifest['baseline_sha256'], original_resources=192,
-                    repository='https://github.com/TTPlayerRebuild/TTPlayerRes')
+                    repository='https://github.com/TTPlayerRebuild/TTPlayerRes',
+                    corrected_strings=[32904], interface_messages=len(messages['messages']))
     save_json(args.output / 'build.json', metadata)
     (args.output / 'abi.bin').write_bytes(b'TTPRES1\0' + struct.pack('<II', 1, 1))
     (args.output / 'metadata.rc').write_text(
         'LANGUAGE 4, 2\nTTPLAYER_RES_ABI 10 "abi.bin"\n'
         'TTPLAYER_RES_BUILD 10 "build.json"\n', encoding='utf-8')
-    print(f'Compiled 192 baseline resources (CompanyName: Sonic853); extension version {version}')
+    print(f'Compiled 192 baseline resources (CompanyName and tooltip 32904 corrected); extension version {version}')
 
 
 if __name__ == '__main__':

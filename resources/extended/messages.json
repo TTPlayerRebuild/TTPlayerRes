@@ -1,0 +1,2348 @@
+{
+  "schema": 1,
+  "next_id": 48469,
+  "messages": [
+    {
+      "context": "app",
+      "source": "\n\nOSZ 中没有有效的 .osu 音频引用，或引用的音乐文件不存在。",
+      "id": 48000
+    },
+    {
+      "context": "app",
+      "source": "\n\n另有 ",
+      "id": 48001
+    },
+    {
+      "context": "app",
+      "source": "\n\n是否将这些安装已有的文件关联、文件夹和音频 CD 菜单交接给当前安装？\n选择“否”保留现状。Windows 10/11 的默认应用仍由系统设置选择。",
+      "id": 48002
+    },
+    {
+      "context": "app",
+      "source": "\n\n请检查文件是否只读、被占用，或所在目录是否可写。\n播放器已保留当前内容，请修复后再次保存或退出。",
+      "id": 48003
+    },
+    {
+      "context": "app",
+      "source": "\n当前安装：",
+      "id": 48004
+    },
+    {
+      "context": "app",
+      "source": "\n当前安装：\n",
+      "id": 48005
+    },
+    {
+      "context": "app",
+      "source": "\n部分关联恢复失败，请重试。恢复错误：",
+      "id": 48006
+    },
+    {
+      "context": "app",
+      "source": "\r\n\r\n歌词恢复文件：\r\n",
+      "id": 48007
+    },
+    {
+      "context": "app",
+      "source": "\r\n原文件的备份已保留在：",
+      "id": 48008
+    },
+    {
+      "context": "app",
+      "source": "\r\n原文件的备份已保留在：\r\n",
+      "id": 48009
+    },
+    {
+      "context": "app",
+      "source": "\r\n另有 ",
+      "id": 48010
+    },
+    {
+      "context": "app",
+      "source": " / 未知时长",
+      "id": 48011
+    },
+    {
+      "context": "app",
+      "source": " Bits",
+      "id": 48012
+    },
+    {
+      "context": "app",
+      "source": " Channels",
+      "id": 48013
+    },
+    {
+      "context": "app",
+      "source": " Samples",
+      "id": 48014
+    },
+    {
+      "context": "app",
+      "source": " → float64 处理（Winamp 旁路） → ",
+      "id": 48015
+    },
+    {
+      "context": "app",
+      "source": " → 原样（处理／音量旁路） → ",
+      "id": 48016
+    },
+    {
+      "context": "app",
+      "source": " → 原版兼容 → ",
+      "id": 48017
+    },
+    {
+      "context": "app",
+      "source": " 已恢复更新前的全部文件。",
+      "id": 48018
+    },
+    {
+      "context": "app",
+      "source": " 碟 ",
+      "id": 48019
+    },
+    {
+      "context": "app",
+      "source": " 项失败。",
+      "id": 48020
+    },
+    {
+      "context": "app",
+      "source": " 项错误未展开。",
+      "id": 48021
+    },
+    {
+      "context": "app",
+      "source": " 首。\r\n",
+      "id": 48022
+    },
+    {
+      "context": "app",
+      "source": " 首曲目",
+      "id": 48023
+    },
+    {
+      "context": "app",
+      "source": " 首，失败 ",
+      "id": 48024
+    },
+    {
+      "context": "app",
+      "source": "%d stars",
+      "id": 48025
+    },
+    {
+      "context": "app",
+      "source": "64 位浮点 / EQ / SSRC",
+      "id": 48026
+    },
+    {
+      "context": "app",
+      "source": "7z 压缩包",
+      "id": 48027
+    },
+    {
+      "context": "app",
+      "source": "Aac.dll has no NERO_PLUGIN_GetPrimaryAudioObject export",
+      "id": 48028
+    },
+    {
+      "context": "app",
+      "source": "AddIn\\ttp_osu.dll 版本或接口不兼容。请更新 OSZ 插件后重新启动播放器。",
+      "id": 48029
+    },
+    {
+      "context": "app",
+      "source": "Album",
+      "id": 48030
+    },
+    {
+      "context": "app",
+      "source": "Artist",
+      "id": 48031
+    },
+    {
+      "context": "app",
+      "source": "Date",
+      "id": 48032
+    },
+    {
+      "context": "app",
+      "source": "DirectSound capability query failed",
+      "id": 48033
+    },
+    {
+      "context": "app",
+      "source": "Disc ID 匹配。请核对发行版与曲目信息。",
+      "id": 48034
+    },
+    {
+      "context": "app",
+      "source": "Equlizer Profile (*.tteq_cfg)",
+      "id": 48035
+    },
+    {
+      "context": "app",
+      "source": "Failed to save lyric file %s.",
+      "id": 48036
+    },
+    {
+      "context": "app",
+      "source": "Genre",
+      "id": 48037
+    },
+    {
+      "context": "app",
+      "source": "GitHub 发布页",
+      "id": 48038
+    },
+    {
+      "context": "app",
+      "source": "Gitee 发布页",
+      "id": 48039
+    },
+    {
+      "context": "app",
+      "source": "Github仓库",
+      "id": 48040
+    },
+    {
+      "context": "app",
+      "source": "HTTPS 组件版本过旧，请从发布页更新 ttp_https.dll。",
+      "id": 48041
+    },
+    {
+      "context": "app",
+      "source": "ISoundEncoder slot 4 start failed",
+      "id": 48042
+    },
+    {
+      "context": "app",
+      "source": "Kernel Streaming capability query failed",
+      "id": 48043
+    },
+    {
+      "context": "app",
+      "source": "Lyrics Profile (*.ttlr_cfg)",
+      "id": 48044
+    },
+    {
+      "context": "app",
+      "source": "MIDI 合成播放请使用原版兼容模式；高精度／原样输出仅适用于解码后的 PCM。",
+      "id": 48045
+    },
+    {
+      "context": "app",
+      "source": "MP3 (LAME DLL)",
+      "id": 48046
+    },
+    {
+      "context": "app",
+      "source": "MP3 metadata write failed",
+      "id": 48047
+    },
+    {
+      "context": "app",
+      "source": "Music",
+      "id": 48048
+    },
+    {
+      "context": "app",
+      "source": "MusicBrainz 服务器:",
+      "id": 48049
+    },
+    {
+      "context": "app",
+      "source": "MusicBrainz（获取 CD 的专辑和音轨信息）",
+      "id": 48050
+    },
+    {
+      "context": "app",
+      "source": "PCM 格式",
+      "id": 48051
+    },
+    {
+      "context": "app",
+      "source": "Playlist Profile (*.ttpl_cfg)",
+      "id": 48052
+    },
+    {
+      "context": "app",
+      "source": "RAR 压缩包",
+      "id": 48053
+    },
+    {
+      "context": "app",
+      "source": "Rating",
+      "id": 48054
+    },
+    {
+      "context": "app",
+      "source": "Sound Library init failed, the player can not run!",
+      "id": 48055
+    },
+    {
+      "context": "app",
+      "source": "TAR 归档",
+      "id": 48056
+    },
+    {
+      "context": "app",
+      "source": "TTPlayer",
+      "id": 48057
+    },
+    {
+      "context": "app",
+      "source": "The lyric file was modified. Save it?",
+      "id": 48058
+    },
+    {
+      "context": "app",
+      "source": "Unable to load Nero component: ",
+      "id": 48059
+    },
+    {
+      "context": "app",
+      "source": "Unavailable device",
+      "id": 48060
+    },
+    {
+      "context": "app",
+      "source": "Unknown",
+      "id": 48061
+    },
+    {
+      "context": "app",
+      "source": "Vis Profile (*.ttvi_cfg)",
+      "id": 48062
+    },
+    {
+      "context": "app",
+      "source": "WASAPI (共享) - ",
+      "id": 48063
+    },
+    {
+      "context": "app",
+      "source": "WASAPI (独占) - ",
+      "id": 48064
+    },
+    {
+      "context": "app",
+      "source": "WASAPI 独占 / ASIO / Kernel Streaming",
+      "id": 48065
+    },
+    {
+      "context": "app",
+      "source": "Winamp 音效",
+      "id": 48066
+    },
+    {
+      "context": "app",
+      "source": "Windows 7 或更高版本",
+      "id": 48067
+    },
+    {
+      "context": "app",
+      "source": "Windows error ",
+      "id": 48068
+    },
+    {
+      "context": "app",
+      "source": "ZIP 压缩包",
+      "id": 48069
+    },
+    {
+      "context": "app",
+      "source": "] 第 ",
+      "id": 48070
+    },
+    {
+      "context": "app",
+      "source": "clear legacy UserChoice backup",
+      "id": 48071
+    },
+    {
+      "context": "app",
+      "source": "clear stale registry backup",
+      "id": 48072
+    },
+    {
+      "context": "app",
+      "source": "configure IShellLinkW",
+      "id": 48073
+    },
+    {
+      "context": "app",
+      "source": "conversion cancelled",
+      "id": 48074
+    },
+    {
+      "context": "app",
+      "source": "conversion destination is a source file",
+      "id": 48075
+    },
+    {
+      "context": "app",
+      "source": "conversion destination is another batch source",
+      "id": 48076
+    },
+    {
+      "context": "app",
+      "source": "conversion destination is empty",
+      "id": 48077
+    },
+    {
+      "context": "app",
+      "source": "conversion worker exception",
+      "id": 48078
+    },
+    {
+      "context": "app",
+      "source": "create default-program registration",
+      "id": 48079
+    },
+    {
+      "context": "app",
+      "source": "create shortcut",
+      "id": 48080
+    },
+    {
+      "context": "app",
+      "source": "create shortcut directory",
+      "id": 48081
+    },
+    {
+      "context": "app",
+      "source": "destination is a directory",
+      "id": 48082
+    },
+    {
+      "context": "app",
+      "source": "destination requires prompt",
+      "id": 48083
+    },
+    {
+      "context": "app",
+      "source": "destination skipped",
+      "id": 48084
+    },
+    {
+      "context": "app",
+      "source": "empty non-final PCM block",
+      "id": 48085
+    },
+    {
+      "context": "app",
+      "source": "encoder PCM write failed",
+      "id": 48086
+    },
+    {
+      "context": "app",
+      "source": "encoder destination open failed",
+      "id": 48087
+    },
+    {
+      "context": "app",
+      "source": "encoder finalize failed",
+      "id": 48088
+    },
+    {
+      "context": "app",
+      "source": "encoder has no valid configured file extension",
+      "id": 48089
+    },
+    {
+      "context": "app",
+      "source": "encoder index is out of range",
+      "id": 48090
+    },
+    {
+      "context": "app",
+      "source": "enumerate registered formats",
+      "id": 48091
+    },
+    {
+      "context": "app",
+      "source": "executable is empty",
+      "id": 48092
+    },
+    {
+      "context": "app",
+      "source": "gzip 压缩包",
+      "id": 48093
+    },
+    {
+      "context": "app",
+      "source": "invalid ASIO descriptor",
+      "id": 48094
+    },
+    {
+      "context": "app",
+      "source": "invalid DirectSound GUID",
+      "id": 48095
+    },
+    {
+      "context": "app",
+      "source": "invalid decoded PCM format",
+      "id": 48096
+    },
+    {
+      "context": "app",
+      "source": "invalid extension",
+      "id": 48097
+    },
+    {
+      "context": "app",
+      "source": "invalid shortcut name",
+      "id": 48098
+    },
+    {
+      "context": "app",
+      "source": "isolated registration cannot launch the live shell",
+      "id": 48099
+    },
+    {
+      "context": "app",
+      "source": "nanling与社区",
+      "id": 48100
+    },
+    {
+      "context": "app",
+      "source": "open OpenWithProgids",
+      "id": 48101
+    },
+    {
+      "context": "app",
+      "source": "open RegisteredApplications",
+      "id": 48102
+    },
+    {
+      "context": "app",
+      "source": "open capabilities",
+      "id": 48103
+    },
+    {
+      "context": "app",
+      "source": "open default programs",
+      "id": 48104
+    },
+    {
+      "context": "app",
+      "source": "open extension key",
+      "id": 48105
+    },
+    {
+      "context": "app",
+      "source": "open legacy UserChoice backup",
+      "id": 48106
+    },
+    {
+      "context": "app",
+      "source": "open system default programs",
+      "id": 48107
+    },
+    {
+      "context": "app",
+      "source": "osu! 谱面包 (*.osz)",
+      "id": 48108
+    },
+    {
+      "context": "app",
+      "source": "osu!lazer（读取中）",
+      "id": 48109
+    },
+    {
+      "context": "app",
+      "source": "osu!lazer（读取失败）",
+      "id": 48110
+    },
+    {
+      "context": "app",
+      "source": "osu!（读取中）",
+      "id": 48111
+    },
+    {
+      "context": "app",
+      "source": "osu!（读取失败）",
+      "id": 48112
+    },
+    {
+      "context": "app",
+      "source": "partial decoded PCM frame",
+      "id": 48113
+    },
+    {
+      "context": "app",
+      "source": "programs_subdirectory may not contain '..'",
+      "id": 48114
+    },
+    {
+      "context": "app",
+      "source": "programs_subdirectory must be relative",
+      "id": 48115
+    },
+    {
+      "context": "app",
+      "source": "query OpenWithProgids",
+      "id": 48116
+    },
+    {
+      "context": "app",
+      "source": "query extension",
+      "id": 48117
+    },
+    {
+      "context": "app",
+      "source": "read RegisteredApplications",
+      "id": 48118
+    },
+    {
+      "context": "app",
+      "source": "read association backup metadata",
+      "id": 48119
+    },
+    {
+      "context": "app",
+      "source": "read association owner",
+      "id": 48120
+    },
+    {
+      "context": "app",
+      "source": "read capabilities owner",
+      "id": 48121
+    },
+    {
+      "context": "app",
+      "source": "read default-program registration",
+      "id": 48122
+    },
+    {
+      "context": "app",
+      "source": "read extension backup",
+      "id": 48123
+    },
+    {
+      "context": "app",
+      "source": "read later legacy UserChoice",
+      "id": 48124
+    },
+    {
+      "context": "app",
+      "source": "read legacy UserChoice",
+      "id": 48125
+    },
+    {
+      "context": "app",
+      "source": "read legacy UserChoice Progid",
+      "id": 48126
+    },
+    {
+      "context": "app",
+      "source": "read legacy UserChoice backup",
+      "id": 48127
+    },
+    {
+      "context": "app",
+      "source": "read legacy UserChoice backup owner",
+      "id": 48128
+    },
+    {
+      "context": "app",
+      "source": "read registered formats",
+      "id": 48129
+    },
+    {
+      "context": "app",
+      "source": "read registry default value",
+      "id": 48130
+    },
+    {
+      "context": "app",
+      "source": "register default program",
+      "id": 48131
+    },
+    {
+      "context": "app",
+      "source": "registry.json 保存失败，请检查文件权限或磁盘空间",
+      "id": 48132
+    },
+    {
+      "context": "app",
+      "source": "remove RegisteredApplications entry",
+      "id": 48133
+    },
+    {
+      "context": "app",
+      "source": "remove association metadata",
+      "id": 48134
+    },
+    {
+      "context": "app",
+      "source": "remove capabilities",
+      "id": 48135
+    },
+    {
+      "context": "app",
+      "source": "remove empty association key",
+      "id": 48136
+    },
+    {
+      "context": "app",
+      "source": "remove legacy UserChoice backup",
+      "id": 48137
+    },
+    {
+      "context": "app",
+      "source": "remove legacy UserChoice key",
+      "id": 48138
+    },
+    {
+      "context": "app",
+      "source": "resolve Programs shortcut",
+      "id": 48139
+    },
+    {
+      "context": "app",
+      "source": "resolve shortcut path",
+      "id": 48140
+    },
+    {
+      "context": "app",
+      "source": "restore legacy UserChoice",
+      "id": 48141
+    },
+    {
+      "context": "app",
+      "source": "restore registry default value",
+      "id": 48142
+    },
+    {
+      "context": "app",
+      "source": "save association ownership metadata",
+      "id": 48143
+    },
+    {
+      "context": "app",
+      "source": "save legacy UserChoice backup",
+      "id": 48144
+    },
+    {
+      "context": "app",
+      "source": "save registry default backup",
+      "id": 48145
+    },
+    {
+      "context": "app",
+      "source": "set extension association",
+      "id": 48146
+    },
+    {
+      "context": "app",
+      "source": "set icon for an unmanaged association",
+      "id": 48147
+    },
+    {
+      "context": "app",
+      "source": "set shell integration",
+      "id": 48148
+    },
+    {
+      "context": "app",
+      "source": "ttpcomm.dll 缺少归档接口，请手动替换完整发行包。",
+      "id": 48149
+    },
+    {
+      "context": "app",
+      "source": "ttpcomm.dll 缺少此版本播放器需要的运行时接口。\n\n请退出播放器，将完整发行包手动解压并替换到同一目录，包括主程序 EXE 和 ttpcomm.dll。请勿混用原版或旧版核心 DLL。",
+      "id": 48150
+    },
+    {
+      "context": "app",
+      "source": "ttpres.dll 缺失、无法加载或缺少此版本播放器需要的界面资源。\n\n请退出播放器，将完整发行包解压并替换到同一目录，包括主程序 EXE 和 ttpres.dll。",
+      "id": 48151
+    },
+    {
+      "context": "app",
+      "source": "unable to commit converted file",
+      "id": 48152
+    },
+    {
+      "context": "app",
+      "source": "unable to create decoded audio source",
+      "id": 48153
+    },
+    {
+      "context": "app",
+      "source": "unable to create output file",
+      "id": 48154
+    },
+    {
+      "context": "app",
+      "source": "unregister default program",
+      "id": 48155
+    },
+    {
+      "context": "app",
+      "source": "unsupported output backend",
+      "id": 48156
+    },
+    {
+      "context": "app",
+      "source": "update OpenWithProgids",
+      "id": 48157
+    },
+    {
+      "context": "app",
+      "source": "waveOutGetDevCapsW failed",
+      "id": 48158
+    },
+    {
+      "context": "app",
+      "source": "write default-program registration",
+      "id": 48159
+    },
+    {
+      "context": "app",
+      "source": "write registry default value",
+      "id": 48160
+    },
+    {
+      "context": "app",
+      "source": "不允许嵌套的关联批次",
+      "id": 48161
+    },
+    {
+      "context": "app",
+      "source": "不支持此压缩方式或成员类型。",
+      "id": 48162
+    },
+    {
+      "context": "app",
+      "source": "不支持此模式，播放时将报告错误",
+      "id": 48163
+    },
+    {
+      "context": "app",
+      "source": "不支持的动态注册表接口：",
+      "id": 48164
+    },
+    {
+      "context": "app",
+      "source": "专辑：",
+      "id": 48165
+    },
+    {
+      "context": "app",
+      "source": "两种星环效果可在全屏中使用。",
+      "id": 48166
+    },
+    {
+      "context": "app",
+      "source": "个人定制名称",
+      "id": 48167
+    },
+    {
+      "context": "app",
+      "source": "个人版",
+      "id": 48168
+    },
+    {
+      "context": "app",
+      "source": "个性化",
+      "id": 48169
+    },
+    {
+      "context": "app",
+      "source": "以下全局快捷键未能启用。请更换组合键，或释放其它程序对这些组合键的占用：",
+      "id": 48170
+    },
+    {
+      "context": "app",
+      "source": "以下项目未确认删除成功，原有列表信息已保留：\r\n",
+      "id": 48171
+    },
+    {
+      "context": "app",
+      "source": "使用配置的插件链",
+      "id": 48172
+    },
+    {
+      "context": "app",
+      "source": "保存失败，未完成的文件保持原样。",
+      "id": 48173
+    },
+    {
+      "context": "app",
+      "source": "保存将更新所示歌曲信息，服务未返回的字段保留原值。",
+      "id": 48174
+    },
+    {
+      "context": "app",
+      "source": "保存未完成（已成功保存的文件已保留）：",
+      "id": 48175
+    },
+    {
+      "context": "app",
+      "source": "保存歌词",
+      "id": 48176
+    },
+    {
+      "context": "app",
+      "source": "保持源 PCM 的有效位深",
+      "id": 48177
+    },
+    {
+      "context": "app",
+      "source": "保持源采样率，禁止重采样",
+      "id": 48178
+    },
+    {
+      "context": "app",
+      "source": "停止搜索",
+      "id": 48179
+    },
+    {
+      "context": "app",
+      "source": "全局快捷键",
+      "id": 48180
+    },
+    {
+      "context": "app",
+      "source": "全屏显示当前内容",
+      "id": 48181
+    },
+    {
+      "context": "app",
+      "source": "全部 DSP、增益及音量处理旁路",
+      "id": 48182
+    },
+    {
+      "context": "app",
+      "source": "公用文档",
+      "id": 48183
+    },
+    {
+      "context": "app",
+      "source": "公用音乐",
+      "id": 48184
+    },
+    {
+      "context": "app",
+      "source": "共享",
+      "id": 48185
+    },
+    {
+      "context": "app",
+      "source": "关闭",
+      "id": 48186
+    },
+    {
+      "context": "app",
+      "source": "关闭 GPU 加速",
+      "id": 48468
+    },
+    {
+      "context": "app",
+      "source": "切换文件关联安装",
+      "id": 48187
+    },
+    {
+      "context": "app",
+      "source": "创建渲染接口",
+      "id": 48188
+    },
+    {
+      "context": "app",
+      "source": "创建音频流",
+      "id": 48189
+    },
+    {
+      "context": "app",
+      "source": "初始化",
+      "id": 48190
+    },
+    {
+      "context": "app",
+      "source": "初始化共享模式",
+      "id": 48191
+    },
+    {
+      "context": "app",
+      "source": "初始化独占模式",
+      "id": 48192
+    },
+    {
+      "context": "app",
+      "source": "删除增益信息",
+      "id": 48193
+    },
+    {
+      "context": "app",
+      "source": "删除增益信息已完成。成功 ",
+      "id": 48194
+    },
+    {
+      "context": "app",
+      "source": "删除逐字标签\tCtrl+F10",
+      "id": 48195
+    },
+    {
+      "context": "app",
+      "source": "动态依赖注册表接入失败：",
+      "id": 48196
+    },
+    {
+      "context": "app",
+      "source": "千千静听",
+      "id": 48197
+    },
+    {
+      "context": "app",
+      "source": "千千静听 - 最新版本",
+      "id": 48198
+    },
+    {
+      "context": "app",
+      "source": "千千静听 - 软件更新",
+      "id": 48199
+    },
+    {
+      "context": "app",
+      "source": "压缩包内找不到此文件。",
+      "id": 48200
+    },
+    {
+      "context": "app",
+      "source": "压缩包内歌词为只读，请使用“另存为”保存到普通文件。",
+      "id": 48201
+    },
+    {
+      "context": "app",
+      "source": "压缩包密码",
+      "id": 48202
+    },
+    {
+      "context": "app",
+      "source": "压缩包密码不正确，或加密数据已损坏。",
+      "id": 48203
+    },
+    {
+      "context": "app",
+      "source": "压缩包成员超过允许的大小。",
+      "id": 48204
+    },
+    {
+      "context": "app",
+      "source": "压缩包所需的解压字典超过播放器的内存限制。",
+      "id": 48205
+    },
+    {
+      "context": "app",
+      "source": "压缩包数据损坏或校验失败。",
+      "id": 48206
+    },
+    {
+      "context": "app",
+      "source": "压缩包缺少分卷。请重新导入并选择所需分卷，或将全部分卷放在同一目录。",
+      "id": 48207
+    },
+    {
+      "context": "app",
+      "source": "压缩包需要密码。请播放或重新添加该压缩包以输入密码。",
+      "id": 48208
+    },
+    {
+      "context": "app",
+      "source": "原始文本",
+      "id": 48209
+    },
+    {
+      "context": "app",
+      "source": "原样独占格式协商",
+      "id": 48210
+    },
+    {
+      "context": "app",
+      "source": "原样输出",
+      "id": 48211
+    },
+    {
+      "context": "app",
+      "source": "原样输出拒绝非有限浮点样本",
+      "id": 48212
+    },
+    {
+      "context": "app",
+      "source": "原样输出要求音量增益为一",
+      "id": 48213
+    },
+    {
+      "context": "app",
+      "source": "原样输出需要 WASAPI 独占、ASIO 或 Kernel Streaming；共享模式经过系统混音器。",
+      "id": 48214
+    },
+    {
+      "context": "app",
+      "source": "原样输出需要独占模式",
+      "id": 48215
+    },
+    {
+      "context": "app",
+      "source": "原版兼容",
+      "id": 48216
+    },
+    {
+      "context": "app",
+      "source": "原版兼容 DSP 链",
+      "id": 48217
+    },
+    {
+      "context": "app",
+      "source": "原版兼容 → DirectSound ",
+      "id": 48218
+    },
+    {
+      "context": "app",
+      "source": "发现新版本，可以立即更新。",
+      "id": 48219
+    },
+    {
+      "context": "app",
+      "source": "发现新版本，请点击通知前往选项更新。",
+      "id": 48220
+    },
+    {
+      "context": "app",
+      "source": "发现新版本：",
+      "id": 48221
+    },
+    {
+      "context": "app",
+      "source": "取得音频缓冲区",
+      "id": 48222
+    },
+    {
+      "context": "app",
+      "source": "取消",
+      "id": 48223
+    },
+    {
+      "context": "app",
+      "source": "取消文件关联",
+      "id": 48224
+    },
+    {
+      "context": "app",
+      "source": "可执行文件 (*.exe)",
+      "id": 48225
+    },
+    {
+      "context": "app",
+      "source": "可用星环效果取决于 ttp_osu 插件版本。",
+      "id": 48226
+    },
+    {
+      "context": "app",
+      "source": "可用输出",
+      "id": 48227
+    },
+    {
+      "context": "app",
+      "source": "同时扫描：",
+      "id": 48228
+    },
+    {
+      "context": "app",
+      "source": "名称含有原版编码无法保存的字符，请更换。",
+      "id": 48229
+    },
+    {
+      "context": "app",
+      "source": "名称无法按原版编码保存，已保留先前名称。",
+      "id": 48230
+    },
+    {
+      "context": "app",
+      "source": "后台任务未能完成（",
+      "id": 48231
+    },
+    {
+      "context": "app",
+      "source": "向 Discord 发送播放的歌曲信息",
+      "id": 48232
+    },
+    {
+      "context": "app",
+      "source": "向 Discord 发送歌词",
+      "id": 48233
+    },
+    {
+      "context": "app",
+      "source": "固定设备",
+      "id": 48234
+    },
+    {
+      "context": "app",
+      "source": "处理模式",
+      "id": 48235
+    },
+    {
+      "context": "app",
+      "source": "处理模式:",
+      "id": 48236
+    },
+    {
+      "context": "app",
+      "source": "失败 (",
+      "id": 48237
+    },
+    {
+      "context": "app",
+      "source": "如果 osu!lazer 正在运行，请关闭后取消勾选并重新显示列表。",
+      "id": 48238
+    },
+    {
+      "context": "app",
+      "source": "媒体库",
+      "id": 48239
+    },
+    {
+      "context": "app",
+      "source": "媒体来源",
+      "id": 48240
+    },
+    {
+      "context": "app",
+      "source": "密码已验证，但未能保存记住的密码。请检查播放器目录是否可写。\r\n错误代码：0x",
+      "id": 48241
+    },
+    {
+      "context": "app",
+      "source": "密码未通过校验，请重试。加密数据损坏也可能导致校验失败。",
+      "id": 48242
+    },
+    {
+      "context": "app",
+      "source": "导入失败，原配置未被覆盖。\n\n当前仅支持 Ozone 或 DFX 的 UTF-16LE REG 文件，不支持删除脚本或其它注册表分支。\n请确认文件可读取、配置目录可写，且配置未被其它进程占用。",
+      "id": 48243
+    },
+    {
+      "context": "app",
+      "source": "导入未能完成，播放列表保持不变。",
+      "id": 48244
+    },
+    {
+      "context": "app",
+      "source": "导入歌曲",
+      "id": 48245
+    },
+    {
+      "context": "app",
+      "source": "导入音效插件配置",
+      "id": 48246
+    },
+    {
+      "context": "app",
+      "source": "导出osz文件",
+      "id": 48247
+    },
+    {
+      "context": "app",
+      "source": "导出全部歌曲",
+      "id": 48248
+    },
+    {
+      "context": "app",
+      "source": "导出全部歌曲 — 选择保存文件夹",
+      "id": 48249
+    },
+    {
+      "context": "app",
+      "source": "导出失败。",
+      "id": 48250
+    },
+    {
+      "context": "app",
+      "source": "导出完成。",
+      "id": 48251
+    },
+    {
+      "context": "app",
+      "source": "导出已选歌曲",
+      "id": 48252
+    },
+    {
+      "context": "app",
+      "source": "导出已选歌曲 — 选择保存文件夹",
+      "id": 48253
+    },
+    {
+      "context": "app",
+      "source": "尚无可用的完整发行包，请前往发布页查看。",
+      "id": 48254
+    },
+    {
+      "context": "app",
+      "source": "尚未打开音频输出",
+      "id": 48255
+    },
+    {
+      "context": "app",
+      "source": "尽听精彩",
+      "id": 48256
+    },
+    {
+      "context": "app",
+      "source": "已取消",
+      "id": 48257
+    },
+    {
+      "context": "app",
+      "source": "已取消导出。",
+      "id": 48258
+    },
+    {
+      "context": "app",
+      "source": "已取消读取压缩包。",
+      "id": 48259
+    },
+    {
+      "context": "app",
+      "source": "已处理",
+      "id": 48260
+    },
+    {
+      "context": "app",
+      "source": "已导出谱面包：",
+      "id": 48261
+    },
+    {
+      "context": "app",
+      "source": "已找到 ",
+      "id": 48262
+    },
+    {
+      "context": "app",
+      "source": "已收听 ",
+      "id": 48263
+    },
+    {
+      "context": "app",
+      "source": "已暂停 · ",
+      "id": 48264
+    },
+    {
+      "context": "app",
+      "source": "已有文件大小：",
+      "id": 48265
+    },
+    {
+      "context": "app",
+      "source": "已有配置的备份为 registry.json.bak。\n\n保存位置：\n",
+      "id": 48266
+    },
+    {
+      "context": "app",
+      "source": "已登记的安装：",
+      "id": 48267
+    },
+    {
+      "context": "app",
+      "source": "已识别 osu!lazer。",
+      "id": 48268
+    },
+    {
+      "context": "app",
+      "source": "已识别 osu!。",
+      "id": 48269
+    },
+    {
+      "context": "app",
+      "source": "开始搜索",
+      "id": 48270
+    },
+    {
+      "context": "app",
+      "source": "开始播放",
+      "id": 48271
+    },
+    {
+      "context": "app",
+      "source": "当前已是最新版本。",
+      "id": 48272
+    },
+    {
+      "context": "app",
+      "source": "当前插件尚不能使用此皮肤。",
+      "id": 48273
+    },
+    {
+      "context": "app",
+      "source": "当前文件：",
+      "id": 48274
+    },
+    {
+      "context": "app",
+      "source": "当前没有可安装的新版本。",
+      "id": 48275
+    },
+    {
+      "context": "app",
+      "source": "我的音乐",
+      "id": 48276
+    },
+    {
+      "context": "app",
+      "source": "所有文件",
+      "id": 48277
+    },
+    {
+      "context": "app",
+      "source": "所选文件不存在或无法访问，请重新选择。\r\n取消不会修改压缩包。",
+      "id": 48278
+    },
+    {
+      "context": "app",
+      "source": "打开更新器",
+      "id": 48279
+    },
+    {
+      "context": "app",
+      "source": "打开音频设备",
+      "id": 48280
+    },
+    {
+      "context": "app",
+      "source": "找不到所需分卷：\r\n",
+      "id": 48281
+    },
+    {
+      "context": "app",
+      "source": "抖动",
+      "id": 48282
+    },
+    {
+      "context": "app",
+      "source": "报告服务不可用，尚未提交。",
+      "id": 48283
+    },
+    {
+      "context": "app",
+      "source": "提交反馈",
+      "id": 48284
+    },
+    {
+      "context": "app",
+      "source": "提交音频数据",
+      "id": 48285
+    },
+    {
+      "context": "app",
+      "source": "提交音频缓冲区",
+      "id": 48286
+    },
+    {
+      "context": "app",
+      "source": "插件依赖的注册表接入失败：",
+      "id": 48287
+    },
+    {
+      "context": "app",
+      "source": "插入逐字标签\tCtrl+F8",
+      "id": 48288
+    },
+    {
+      "context": "app",
+      "source": "播放器尚未退出，请关闭播放器后重试。",
+      "id": 48289
+    },
+    {
+      "context": "app",
+      "source": "播放器暂时无法退出，请保存正在编辑的内容后重试。",
+      "id": 48290
+    },
+    {
+      "context": "app",
+      "source": "播放器目录不可写，请以具有该目录写入权限的用户运行更新器。",
+      "id": 48291
+    },
+    {
+      "context": "app",
+      "source": "播放缺少信息的 CD 音轨时自动查询",
+      "id": 48292
+    },
+    {
+      "context": "app",
+      "source": "操作失败",
+      "id": 48293
+    },
+    {
+      "context": "app",
+      "source": "支持此模式；实际格式需设备接受",
+      "id": 48294
+    },
+    {
+      "context": "app",
+      "source": "文件关联已登记在以下安装目录：\n",
+      "id": 48295
+    },
+    {
+      "context": "app",
+      "source": "文件关联提交",
+      "id": 48296
+    },
+    {
+      "context": "app",
+      "source": "文件关联由另一个安装目录管理",
+      "id": 48297
+    },
+    {
+      "context": "app",
+      "source": "文件大小：",
+      "id": 48298
+    },
+    {
+      "context": "app",
+      "source": "文件已更新，程序启动较慢。旧文件备份：\n",
+      "id": 48299
+    },
+    {
+      "context": "app",
+      "source": "新版启动后异常退出。",
+      "id": 48300
+    },
+    {
+      "context": "app",
+      "source": "新版启动失败。",
+      "id": 48301
+    },
+    {
+      "context": "app",
+      "source": "旁路",
+      "id": 48302
+    },
+    {
+      "context": "app",
+      "source": "旁路（保留插件设置）",
+      "id": 48303
+    },
+    {
+      "context": "app",
+      "source": "无",
+      "id": 48304
+    },
+    {
+      "context": "app",
+      "source": "无可用发行包",
+      "id": 48305
+    },
+    {
+      "context": "app",
+      "source": "无法保存播放列表、歌词关联或设置：\n\n",
+      "id": 48306
+    },
+    {
+      "context": "app",
+      "source": "无法准备导出，请重新读取歌曲列表后重试。",
+      "id": 48307
+    },
+    {
+      "context": "app",
+      "source": "无法启动查询线程",
+      "id": 48308
+    },
+    {
+      "context": "app",
+      "source": "无法读取专辑封面：图片格式无效或超过允许的大小。",
+      "id": 48309
+    },
+    {
+      "context": "app",
+      "source": "无法读取压缩包，请检查文件是否完整且可访问。",
+      "id": 48310
+    },
+    {
+      "context": "app",
+      "source": "无法读取有效的服务器 XML，保留原文件，不允许覆盖。",
+      "id": 48311
+    },
+    {
+      "context": "app",
+      "source": "无法读取歌曲列表，请检查媒体库 → osu! 中的路径。",
+      "id": 48312
+    },
+    {
+      "context": "app",
+      "source": "时长未知",
+      "id": 48313
+    },
+    {
+      "context": "app",
+      "source": "是否更改为与实际格式对应的后缀？",
+      "id": 48314
+    },
+    {
+      "context": "app",
+      "source": "显示osu!lazer列表",
+      "id": 48315
+    },
+    {
+      "context": "app",
+      "source": "显示osu列表",
+      "id": 48316
+    },
+    {
+      "context": "app",
+      "source": "显示内容",
+      "id": 48317
+    },
+    {
+      "context": "app",
+      "source": "暂停播放",
+      "id": 48318
+    },
+    {
+      "context": "app",
+      "source": "更改为：",
+      "id": 48319
+    },
+    {
+      "context": "app",
+      "source": "更改后缀：目标文件已存在",
+      "id": 48320
+    },
+    {
+      "context": "app",
+      "source": "更改文件后缀",
+      "id": 48321
+    },
+    {
+      "context": "app",
+      "source": "更新完成。旧文件备份：",
+      "id": 48322
+    },
+    {
+      "context": "app",
+      "source": "更新源",
+      "id": 48323
+    },
+    {
+      "context": "app",
+      "source": "替换",
+      "id": 48324
+    },
+    {
+      "context": "app",
+      "source": "替换逐字标签\tCtrl+F9",
+      "id": 48325
+    },
+    {
+      "context": "app",
+      "source": "最小化到系统栏",
+      "id": 48326
+    },
+    {
+      "context": "app",
+      "source": "最终高精度编码",
+      "id": 48327
+    },
+    {
+      "context": "app",
+      "source": "最近实际路径",
+      "id": 48328
+    },
+    {
+      "context": "app",
+      "source": "未安装可用的 OSZ 插件。请将可选插件 ttp_osu.dll 放入 AddIn 目录后重新启动播放器。",
+      "id": 48329
+    },
+    {
+      "context": "app",
+      "source": "未知曲目",
+      "id": 48330
+    },
+    {
+      "context": "app",
+      "source": "未知格式",
+      "id": 48331
+    },
+    {
+      "context": "app",
+      "source": "未能更改文件后缀。文件可能已变化或正在被占用。",
+      "id": 48332
+    },
+    {
+      "context": "app",
+      "source": "未识别到 osu! 程序，请检查程序文件路径。",
+      "id": 48333
+    },
+    {
+      "context": "app",
+      "source": "构建日期:",
+      "id": 48334
+    },
+    {
+      "context": "app",
+      "source": "枚举现有文件关联",
+      "id": 48335
+    },
+    {
+      "context": "app",
+      "source": "查询对齐尺寸",
+      "id": 48336
+    },
+    {
+      "context": "app",
+      "source": "查询曲目信息 (MusicBrainz)...",
+      "id": 48337
+    },
+    {
+      "context": "app",
+      "source": "查询缓冲区",
+      "id": 48338
+    },
+    {
+      "context": "app",
+      "source": "查询缓冲区大小",
+      "id": 48339
+    },
+    {
+      "context": "app",
+      "source": "标题",
+      "id": 48340
+    },
+    {
+      "context": "app",
+      "source": "检查失败",
+      "id": 48341
+    },
+    {
+      "context": "app",
+      "source": "检查更新失败：",
+      "id": 48342
+    },
+    {
+      "context": "app",
+      "source": "歌曲目录为 lazer 存储位置下的 files 文件夹。\r\n路径可使用 %USERPROFILE% 等环境变量。",
+      "id": 48343
+    },
+    {
+      "context": "app",
+      "source": "歌曲目录通常为 osu! 程序目录下的 Songs 文件夹。\r\n路径可使用 %USERPROFILE% 等环境变量。",
+      "id": 48344
+    },
+    {
+      "context": "app",
+      "source": "歌曲目录：",
+      "id": 48345
+    },
+    {
+      "context": "app",
+      "source": "歌词",
+      "id": 48346
+    },
+    {
+      "context": "app",
+      "source": "歌词与视觉同屏",
+      "id": 48347
+    },
+    {
+      "context": "app",
+      "source": "歌词搜索组件缺失或版本过旧，请更新 AddIn\\ttp_lrcsh.dll",
+      "id": 48348
+    },
+    {
+      "context": "app",
+      "source": "正在下载更新…",
+      "id": 48349
+    },
+    {
+      "context": "app",
+      "source": "正在保存",
+      "id": 48350
+    },
+    {
+      "context": "app",
+      "source": "正在保存曲目信息…",
+      "id": 48351
+    },
+    {
+      "context": "app",
+      "source": "正在取消…",
+      "id": 48352
+    },
+    {
+      "context": "app",
+      "source": "正在取消，请稍候…",
+      "id": 48353
+    },
+    {
+      "context": "app",
+      "source": "正在播放",
+      "id": 48354
+    },
+    {
+      "context": "app",
+      "source": "正在收集谱面及资源…",
+      "id": 48355
+    },
+    {
+      "context": "app",
+      "source": "正在替换文件并启动播放器…",
+      "id": 48356
+    },
+    {
+      "context": "app",
+      "source": "正在检查…",
+      "id": 48357
+    },
+    {
+      "context": "app",
+      "source": "正在检查文件…",
+      "id": 48358
+    },
+    {
+      "context": "app",
+      "source": "正在检查新版本…",
+      "id": 48359
+    },
+    {
+      "context": "app",
+      "source": "正在解析 OSZ 压缩包…",
+      "id": 48360
+    },
+    {
+      "context": "app",
+      "source": "正在读取光盘布局并查询 MusicBrainz…",
+      "id": 48361
+    },
+    {
+      "context": "app",
+      "source": "正在读取包内 CUE 并校验…",
+      "id": 48362
+    },
+    {
+      "context": "app",
+      "source": "正在读取压缩包目录并校验…",
+      "id": 48363
+    },
+    {
+      "context": "app",
+      "source": "正在读取所选发行版的曲目…",
+      "id": 48364
+    },
+    {
+      "context": "app",
+      "source": "正在运行的播放器未及时确认请求，可能仍在处理。请先检查播放列表，再决定是否重试。",
+      "id": 48365
+    },
+    {
+      "context": "app",
+      "source": "此目录的更新器已经打开。",
+      "id": 48366
+    },
+    {
+      "context": "app",
+      "source": "没有找到匹配的发行版。未修改曲目信息。",
+      "id": 48367
+    },
+    {
+      "context": "app",
+      "source": "注册表配置接入失败：",
+      "id": 48368
+    },
+    {
+      "context": "app",
+      "source": "注册表：共享 registry.json（缺失时读取系统）",
+      "id": 48369
+    },
+    {
+      "context": "app",
+      "source": "游戏歌曲目录为只读，请选择其它文件夹保存歌词。",
+      "id": 48370
+    },
+    {
+      "context": "app",
+      "source": "点击关闭",
+      "id": 48371
+    },
+    {
+      "context": "app",
+      "source": "点击最小化",
+      "id": 48372
+    },
+    {
+      "context": "app",
+      "source": "独占",
+      "id": 48373
+    },
+    {
+      "context": "app",
+      "source": "独占格式协商",
+      "id": 48374
+    },
+    {
+      "context": "app",
+      "source": "献给",
+      "id": 48375
+    },
+    {
+      "context": "app",
+      "source": "电台",
+      "id": 48376
+    },
+    {
+      "context": "app",
+      "source": "电台直播",
+      "id": 48377
+    },
+    {
+      "context": "app",
+      "source": "界面语言",
+      "id": 48378
+    },
+    {
+      "context": "app",
+      "source": "界面语言将在下次启动播放器时生效。",
+      "id": 48379
+    },
+    {
+      "context": "app",
+      "source": "留空时不显示个人定制文字。",
+      "id": 48380
+    },
+    {
+      "context": "app",
+      "source": "社区版",
+      "id": 48381
+    },
+    {
+      "context": "app",
+      "source": "程序文件：",
+      "id": 48382
+    },
+    {
+      "context": "app",
+      "source": "空音频缓冲区",
+      "id": 48383
+    },
+    {
+      "context": "app",
+      "source": "立即更新",
+      "id": 48384
+    },
+    {
+      "context": "app",
+      "source": "等待另一项文件关联操作",
+      "id": 48385
+    },
+    {
+      "context": "app",
+      "source": "简体中文",
+      "id": 48386
+    },
+    {
+      "context": "app",
+      "source": "系统混音格式",
+      "id": 48387
+    },
+    {
+      "context": "app",
+      "source": "系统要求",
+      "id": 48388
+    },
+    {
+      "context": "app",
+      "source": "系统默认多媒体设备",
+      "id": 48389
+    },
+    {
+      "context": "app",
+      "source": "繁体中文",
+      "id": 48390
+    },
+    {
+      "context": "app",
+      "source": "终止",
+      "id": 48391
+    },
+    {
+      "context": "app",
+      "source": "缓冲区大小",
+      "id": 48392
+    },
+    {
+      "context": "app",
+      "source": "缺少 HTTPS 组件，请前往发布页手动下载更新",
+      "id": 48393
+    },
+    {
+      "context": "app",
+      "source": "网络音频",
+      "id": 48394
+    },
+    {
+      "context": "app",
+      "source": "网络音频 · 时长未知",
+      "id": 48395
+    },
+    {
+      "context": "app",
+      "source": "自动查询失败时显示错误信息",
+      "id": 48396
+    },
+    {
+      "context": "app",
+      "source": "自动（系统语言）",
+      "id": 48397
+    },
+    {
+      "context": "app",
+      "source": "自定义...",
+      "id": 48398
+    },
+    {
+      "context": "app",
+      "source": "艺术家",
+      "id": 48399
+    },
+    {
+      "context": "app",
+      "source": "英文",
+      "id": 48400
+    },
+    {
+      "context": "app",
+      "source": "覆盖",
+      "id": 48401
+    },
+    {
+      "context": "app",
+      "source": "覆盖将替换已有文件；加编号将保留两个文件，例如：",
+      "id": 48402
+    },
+    {
+      "context": "app",
+      "source": "视觉效果",
+      "id": 48403
+    },
+    {
+      "context": "app",
+      "source": "视觉效果类型",
+      "id": 48404
+    },
+    {
+      "context": "app",
+      "source": "解码器定位后返回了无效的 PCM 格式或数据。",
+      "id": 48405
+    },
+    {
+      "context": "app",
+      "source": "计算机",
+      "id": 48406
+    },
+    {
+      "context": "app",
+      "source": "设备兼容",
+      "id": 48407
+    },
+    {
+      "context": "app",
+      "source": "设备自动协商，至少 24 位",
+      "id": 48408
+    },
+    {
+      "context": "app",
+      "source": "设备选择",
+      "id": 48409
+    },
+    {
+      "context": "app",
+      "source": "识别到错误后缀时提示更改",
+      "id": 48410
+    },
+    {
+      "context": "app",
+      "source": "识别格式：",
+      "id": 48411
+    },
+    {
+      "context": "app",
+      "source": "请先完全退出播放器，再将 REG 文件拖到 EXE 图标上导入。",
+      "id": 48412
+    },
+    {
+      "context": "app",
+      "source": "请更新 AddIn\\ttp_osu.dll 以使用节拍星环",
+      "id": 48413
+    },
+    {
+      "context": "app",
+      "source": "请更新 ttp_osu.dll，以使用程序识别和路径发现功能。",
+      "id": 48414
+    },
+    {
+      "context": "app",
+      "source": "请检查资源是否完整；如果 osu!lazer 正在写入曲库，请关闭后重试。",
+      "id": 48415
+    },
+    {
+      "context": "app",
+      "source": "请每次将一个 REG 文件拖到播放器 EXE 图标上。",
+      "id": 48416
+    },
+    {
+      "context": "app",
+      "source": "请点击选项前往更新",
+      "id": 48417
+    },
+    {
+      "context": "app",
+      "source": "请输入此压缩包的密码：",
+      "id": 48418
+    },
+    {
+      "context": "app",
+      "source": "读取压缩包时内存不足。",
+      "id": 48419
+    },
+    {
+      "context": "app",
+      "source": "读取歌词服务器列表失败。",
+      "id": 48420
+    },
+    {
+      "context": "app",
+      "source": "读取现有文件关联",
+      "id": 48421
+    },
+    {
+      "context": "app",
+      "source": "软件更新",
+      "id": 48422
+    },
+    {
+      "context": "app",
+      "source": "输出模式",
+      "id": 48423
+    },
+    {
+      "context": "app",
+      "source": "输出精度",
+      "id": 48424
+    },
+    {
+      "context": "app",
+      "source": "近似匹配：请核对整张光盘和每首曲目后再保存。",
+      "id": 48425
+    },
+    {
+      "context": "app",
+      "source": "进行中",
+      "id": 48426
+    },
+    {
+      "context": "app",
+      "source": "连接设置",
+      "id": 48427
+    },
+    {
+      "context": "app",
+      "source": "选择 osu! 或 osu!lazer 程序",
+      "id": 48428
+    },
+    {
+      "context": "app",
+      "source": "选择分卷：",
+      "id": 48429
+    },
+    {
+      "context": "app",
+      "source": "选择歌曲目录",
+      "id": 48430
+    },
+    {
+      "context": "app",
+      "source": "选项",
+      "id": 48431
+    },
+    {
+      "context": "app",
+      "source": "配置已导入共享 PluginState\\registry.json。\n已接入兼容层的插件会在下次加载时读取这些配置；系统注册表未被修改。",
+      "id": 48432
+    },
+    {
+      "context": "app",
+      "source": "采样频率",
+      "id": 48433
+    },
+    {
+      "context": "app",
+      "source": "重新创建音频流",
+      "id": 48434
+    },
+    {
+      "context": "app",
+      "source": "重新检查",
+      "id": 48435
+    },
+    {
+      "context": "app",
+      "source": "重置音频流",
+      "id": 48436
+    },
+    {
+      "context": "app",
+      "source": "音乐窗",
+      "id": 48437
+    },
+    {
+      "context": "app",
+      "source": "音轨",
+      "id": 48438
+    },
+    {
+      "context": "app",
+      "source": "音频处理",
+      "id": 48439
+    },
+    {
+      "context": "app",
+      "source": "预读缓冲区大小",
+      "id": 48440
+    },
+    {
+      "context": "app",
+      "source": "高精度处理",
+      "id": 48441
+    },
+    {
+      "context": "app",
+      "source": "高精度源格式",
+      "id": 48442
+    },
+    {
+      "context": "app",
+      "source": "高精度独占格式协商",
+      "id": 48443
+    },
+    {
+      "context": "app",
+      "source": "高精度／原样输出需要选择 WASAPI、ASIO 或 Kernel Streaming；WaveOut 和 DirectSound 请使用原版兼容模式。",
+      "id": 48444
+    },
+    {
+      "context": "app",
+      "source": "高级",
+      "id": 48445
+    },
+    {
+      "context": "app",
+      "source": "默认音频设备 (",
+      "id": 48446
+    },
+    {
+      "context": "app",
+      "source": "（子轨 ",
+      "id": 48447
+    },
+    {
+      "context": "app",
+      "source": "（无法读取插件信息）",
+      "id": 48448
+    },
+    {
+      "context": "app",
+      "source": "（系统共享混音）",
+      "id": 48449
+    },
+    {
+      "context": "app",
+      "source": "：当前系统不支持 WASAPI，请选择 WaveOut 或 DirectSound。",
+      "id": 48450
+    },
+    {
+      "context": "app",
+      "source": "：设备不支持源采样率、位深或声道数。请选择支持该格式的设备，或改用高精度处理／原版兼容模式。",
+      "id": 48451
+    },
+    {
+      "context": "app",
+      "source": "：设备不支持该采样率、位深或声道数，请调整音频设备选项或使用共享模式。",
+      "id": 48452
+    },
+    {
+      "context": "app",
+      "source": "：设备已被其它程序占用。",
+      "id": 48453
+    },
+    {
+      "context": "app",
+      "source": "：请在系统声音设置中允许独占模式，或选择 WASAPI 共享模式。",
+      "id": 48454
+    },
+    {
+      "context": "app",
+      "source": "：请在系统声音设置中允许独占模式，或选择支持原样输出的设备。",
+      "id": 48455
+    },
+    {
+      "context": "app",
+      "source": "：音频设备已断开或配置已更改，请重新选择设备。",
+      "id": 48456
+    },
+    {
+      "context": "app/search/count",
+      "source": "%u 个",
+      "id": 48457,
+      "plural": "%u 个",
+      "plural_id": 48458
+    },
+    {
+      "context": "updater/dialog/101/control/1002/0",
+      "source": "正在检查…",
+      "id": 48459
+    },
+    {
+      "context": "updater/dialog/101/control/1004/0",
+      "source": "GitHub 发布页",
+      "id": 48460
+    },
+    {
+      "context": "updater/dialog/101/control/1005/0",
+      "source": "Gitee 发布页",
+      "id": 48461
+    },
+    {
+      "context": "updater/dialog/101/control/1008/0",
+      "source": "立即更新",
+      "id": 48462
+    },
+    {
+      "context": "updater/dialog/101/control/2/0",
+      "source": "关闭",
+      "id": 48463
+    },
+    {
+      "context": "updater/dialog/101/control/4294967295/0",
+      "source": "当前版本号：",
+      "id": 48464
+    },
+    {
+      "context": "updater/dialog/101/control/4294967295/1",
+      "source": "最新版本号：",
+      "id": 48465
+    },
+    {
+      "context": "updater/dialog/101/control/4294967295/2",
+      "source": "更新源：",
+      "id": 48466
+    },
+    {
+      "context": "updater/dialog/101/title",
+      "source": "千千静听 - 软件更新",
+      "id": 48467
+    }
+  ]
+}
